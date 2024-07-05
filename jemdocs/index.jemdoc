@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Junren Chen
+
+~~~
+{}{img_left}{imgs/columbia_office_74_small.jpg}{alt text}{160}{200}
+PhD Candidate,\n [https://hkumath.hku.hk/web/index.php Department of Mathematics], \n[https://www.hku.hk/ The University of Hong Kong]
+\n
+Room 212, Run run shaw building, \n
+Pokfulam, Hong Kong
+\n
+\n
+Email: chenjr58 \[AT\] connect.hku.hk
+\n
+[https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en (Google scholar)]  ~~[https://www.linkedin.com/in/junren-chen-lucky/?originalSubdomain=hk (Linkedin)]
+~~~
+
+== About me
+I am a PhD candidate at Department of Mathematics, The University of Hong Kong. I am very fortunate to have [https://www.math.hkbu.edu.hk/~mng/ Prof. Michael K. Ng] as my advisor. I am also very fortunate to have been working with [https://www.comp.nus.edu.sg/~scarlett/ Prof. Jonathan Scarlett] and [https://www.columbia.edu/~my2550/ Prof. Ming Yuan] since my visits. I got my BSc in from School of Mathematics, Sun Yat-sen University. 
+
+
+I'm expected to graduate in June 2025 and (will be) seeking postdoc position starting in 2025 fall.
+
+== Research 
+My research interests include 
+- High-dimensional statistics
+- Nonconvex optimization
+- Nonlinear observation (/e.g./, quantization, magnitudes, phases)
+- Signal processing (/e.g./, compressed sensing, phase retrieval, group testing)
+- Tensor learning (to be explored)
+
+
+See some of my works below:
+. *J. Chen*, C.-L. Wang, M. K. Ng, D. Wang, [https://ieeexplore.ieee.org/abstract/document/10098832 High dimensional statistical estimation under uniformly dithered one-bit quantization]. /IEEE Trans. Inf. Theory, 2023./ 
+. *J. Chen*, M. K. Ng. [https://epubs.siam.org/doi/full/10.1137/21M1432077 Signal Reconstruction from Phase-only Measurements: Uniqueness Condition, Minimal Measurement Number and Beyond]. /SIAM J. Appl. Math., 2023./
+. *J. Chen*, M. K. Ng, D. Wang. [https://ieeexplore.ieee.org/abstract/document/10304207 Quantizing heavy-tailed data in statistical estimation: (near) minimax rates, covariate quantization, and uniform recovery]. /IEEE Trans. Inf. Theory, 2024./ 
+. *J. Chen*, M. K. Ng. [https://ieeexplore.ieee.org/abstract/document/10210064 Phase Retrieval of Quaternion Signal via Wirtinger Flow]. /IEEE Trans. Signal Process., 2023./
+. *J. Chen*, Z. Liu, M. Ding, M. K. Ng. [https://arxiv.org/abs/2401.08402 Uniform Recovery Guarantees for Quantized Corrupted Sensing Using Structured or Generative Priors]. /SIAM J. on Imaging Sci., 2024+./
+. *J. Chen*, J. Scarlett, M. K. Ng, Z. Liu. [https://openreview.net/pdf?id=vUXNNLatFv A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing]. /NeurIPS, 2023./
+. *J. Chen*, J. Scarlett. [https://arxiv.org/abs/2401.04884 Exact Thresholds for Noisy Non-Adaptive Group Testing
+]. /Pre-print./
+. *J. Chen*, M. Yuan. [https://arxiv.org/abs/2405.04733 One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms
+]. /Pre-print./
+
+I'm very happy to discuss research, collaborate on a project or explore new areas when having a chance :)
+ 
+ 
