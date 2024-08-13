@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{imgs/columbia_office_74_small.jpg}{alt text}{160}{200}
-PhD Candidate,\n [https://hkumath.hku.hk/web/index.php Department of Mathematics], \n[https://www.hku.hk/ The University of Hong Kong]
+PhD Candidate\n [https://hkumath.hku.hk/web/index.php Department of Mathematics] \n[https://www.hku.hk/ The University of Hong Kong]
 \n
 Room 212, Run Run Shaw Building \n
 Pokfulam, Hong Kong
@@ -15,17 +15,17 @@ Email: chenjr58 \[AT\] connect.hku.hk
 ~~~
 
 == About me
-I am a PhD candidate at Department of Mathematics, The University of Hong Kong. I am very fortunate to have [https://www.math.hkbu.edu.hk/~mng/ Prof. Michael K. Ng] as my advisor. I am also very fortunate to work with [https://www.comp.nus.edu.sg/~scarlett/ Prof. Jonathan Scarlett] and [https://www.columbia.edu/~my2550/ Prof. Ming Yuan] since my visits. I got my BSc from School of Mathematics, Sun Yat-sen University. 
+I am a PhD candidate at Department of Mathematics, The University of Hong Kong. I am fortunate enough to have [https://www.math.hkbu.edu.hk/~mng/ Prof. Michael K. Ng] as my advisor. I am also fortunate to work with [https://www.comp.nus.edu.sg/~scarlett/ Prof. Jonathan Scarlett] and [https://www.columbia.edu/~my2550/ Prof. Ming Yuan] since my visits. I got my BSc from School of Mathematics, Sun Yat-sen University. 
 
 
-I'm expected to graduate in June 2025 and seek postdoc position that starts in 2025 fall.
+I'm expected to graduate in June 2025 and seek *postdoc* position that starts in 2025 fall.
 
 == Research 
 My research interests include 
 - High-dimensional statistics
 - Nonconvex optimization
-- Nonlinear observation (/e.g./, quantization, magnitudes, phases, uniformity)
 - Signal processing (/e.g./, compressed sensing, phase retrieval, group testing)
+- Nonlinear observation (/e.g./, quantization, magnitudes, phases, uniformity)
 - Tensor learning (to be explored)
 
 
@@ -42,7 +42,8 @@ Please see some of my works below:
 ]. /Pre-print./
 . *J. Chen*, M. Yuan. [https://arxiv.org/abs/2407.04951 Optimal Quantized Compressed Sensing via Projected Gradient Descent
 ].  /Pre-print./
+. *J. Chen*, Z. Liu, M. K. Ng, J. Scarlett. [https://arxiv.org/abs/2408.06275 Robust Instance Optimal Phase-Only Compressed Sensing]. /Pre-print./ 
 
-I'm very happy to discuss research, collaborate on a project or explore new areas when having a chance :)
+I'm very happy to discuss research, collaborate on a project and explore new areas *:)*
  
  
