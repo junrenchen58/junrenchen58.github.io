@@ -21,6 +21,8 @@ Welcome! I am Junren Chen (Chinese: 陈军任), a final-year PhD student at Depa
 My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities, most typically, quantization. I am thrilled to expand my research towards areas like optimization, applied probability, approximation theory, among others.  
 
 == Selective Papers
+Below are some representative papers with links and possibly short notes. See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for full list.
+
 - High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization. ~~~ {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 T-IT]{{]}} ~~ {{[}}[https://arxiv.org/pdf/2202.13157 Arxiv]{{]}} \n
   *J. Chen*, C.-L. Wang, M. K. Ng, D. Wang. 
 \n IEEE Transactions on Information Theory, 2023.  
@@ -72,7 +74,7 @@ Neural Information Processing Systems (NeurIPS), 2023.
 SIAM Jounal on Applied Mathematics, 2023.  
  
 
-- See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for full list. 
+ 
 
 
 == Curriculum Vitae
