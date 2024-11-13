@@ -50,13 +50,13 @@ In Revision
 *J. Chen*, M. Yuan. 
 \n 
 In Review  
-\n{{[}}/Optimal results for (sparse) signal recovery from _phaseless binary_ observations; phaseless counterparts of the memoryless 1-bit compressed sensing theory/{{]}}
+\n{{[}}/Optimal results for (sparse) signal recovery from the _phaseless bits_ $\mathbf{y}=\textrm{sign}(|\mathbf{Ax}|-\tau)$; phaseless counterparts of the memoryless 1-bit compressed sensing theory/{{]}}
 
 
 - Optimal Quantized Compressed Sensing via Projected Gradient Descent. ~~~{{[}}[https://arxiv.org/pdf/2407.04951 Arxiv]{{]}}
 \n *J. Chen*, M. Yuan. \n 
 In Review  
-\n{{[}}/_Projected Gradient Descent_ is typically optimal for quantized compressed sensing; extend the optimality of NBIHT in [https://dl.acm.org/doi/full/10.1145/3680542 this JACM paper] to _general models_ and _general signal structures_/{{]}}
+\n{{[}}/_Projected Gradient Descent_ is typically optimal for quantized compressed sensing; extend the optimality of NBIHT in [https://dl.acm.org/doi/full/10.1145/3680542 this JACM paper] to _general models_ $\mathbf{y}=\mathcal{Q}(\mathbf{Ax})$ and _general signal structures_/{{]}}
  
 
  - Phase Retrieval of Quaternion Signal via Wirtinger Flow.~~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 T-SP]{{]}} \n *J. Chen*, M. K. Ng. \n
