@@ -18,7 +18,7 @@ Email: chenjr58 \[AT\] connect.hku.hk
 Welcome! I am Junren Chen (Chinese: 陈军任), a final-year PhD student at Department of Mathematics, The University of Hong Kong. I am very fortunate to have [https://www.math.hkbu.edu.hk/~mng/ Prof. Michael K. Ng] as my advisor. I was also fortunately a visiting graduate student at NUS with [https://www.comp.nus.edu.sg/~scarlett/ Prof. Jonathan Scarlett], at Columbia University with [https://www.columbia.edu/~my2550/ Prof. Ming Yuan]. Expected to graduate in 2025 June, *I am looking for postdoc position starting Fall 2025.*
 
 == Research Interests 
-My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities, most typically, quantization. I am thrilled to expand my research towards areas like optimization, applied probability, among many others.  
+My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities, most typically, quantization. I am thrilled to expand my research towards areas like optimization, applied probability, approximation theory, among others.  
 
 == Selective Papers
 - High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization. ~~~ {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 T-IT]{{]}} ~~ {{[}}[https://arxiv.org/pdf/2202.13157 Arxiv]{{]}} \n
@@ -33,10 +33,6 @@ My research interests include high-dimensional statistics, nonconvex optimizatio
 ACM-SIAM Symposium on Discrete Algorithms (SODA 25).
 \n{{[}}/Exact thresholds for both \"Bernoulli\" design and \"near-constant weight\" design; noisy counterpart for [https://epubs.siam.org/doi/abs/10.1137/1.9781611974331.ch4 this SODA paper]/{{]}}
 
-
- - Phase Retrieval of Quaternion Signal via Wirtinger Flow.~~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 T-SP]{{]}} \n *J. Chen*, M. K. Ng. \n
-IEEE Transactions on Signal Processing, 2023. 
-\n{{[}}/Among the first studies of (pure) quaternion phase retrieval/{{]}}
 
 
 - A Parameter-Free Two-Bit Covariance Estimator
@@ -60,6 +56,11 @@ In Review
 In Review  
 \n{{[}}/\"Projected Gradient Descent\" is typically optimal for quantized compressed sensing; extend the optimality of NBIHT in [https://dl.acm.org/doi/full/10.1145/3680542 this JACM paper] to general models and general signal structures/{{]}}
  
+
+ - Phase Retrieval of Quaternion Signal via Wirtinger Flow.~~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 T-SP]{{]}} \n *J. Chen*, M. K. Ng. \n
+IEEE Transactions on Signal Processing, 2023. 
+\n{{[}}/Among the first studies of (pure) quaternion phase retrieval/{{]}}
+
 
 -  A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing. ~~~{{[}}[https://openreview.net/pdf?id=vUXNNLatFv NeurIPS]{{]}}\n *J. Chen*, J. Scarlett, M. K. Ng, Z. Liu. \n 
 Neural Information Processing Systems (NeurIPS), 2023. 
