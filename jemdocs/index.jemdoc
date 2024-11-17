@@ -50,7 +50,7 @@ In Revision
 *J. Chen*, M. Yuan. 
 \n 
 In Review  
-\n{{[}}Optimal results for (sparse) signal recovery from the /phaseless bits/ $\mathbf{y}=\textrm{sign}(|\mathbf{Ax}|-\tau)$; phaseless counterparts of the memoryless 1-bit compressed sensing theory{{]}}
+\n{{[}}Near optimal results for (sparse) signal recovery from the /phaseless bits/ $\mathbf{y}=\textrm{sign}(|\mathbf{Ax}|-\tau)$; phaseless counterparts of the memoryless 1-bit compressed sensing theory{{]}}
 
 
 - Optimal Quantized Compressed Sensing via Projected Gradient Descent. ~~~{{[}}[https://arxiv.org/pdf/2407.04951 Arxiv]{{]}}
