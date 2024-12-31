@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-=Junren Chen 
+=Welcome to Junren Chen's Homepage   
 
 ~~~
 {}{img_left}{imgs/hkuoffice_Aug.jpg}{alt text}{150}{200}
@@ -9,19 +9,19 @@ RR212, Run Run Shaw Building \n
 Pokfulam, Hong Kong
 \n
 \n
-Email: \chenjr58\{{@}}connect.hku.hk
+Email: /chenjr58/{{@}}/connect.hku.hk/
 
 
 ~~~
 
 == Profile
-Welcome! I am Junren Chen (Chinese: 陈军任), a final-year PhD student at Department of Mathematics, The University of Hong Kong. I am very fortunate to have [https://sites.google.com/view/michael-ng-math/home Prof. Michael K. Ng] as my advisor. I was also fortunately a visiting graduate student at NUS with [https://www.comp.nus.edu.sg/~scarlett/ Prof. Jonathan Scarlett], at Columbia University with [https://www.columbia.edu/~my2550/ Prof. Ming Yuan]. Expected to graduate in 2025 June, *I am looking for postdoc position starting Fall 2025.*
+I am Junren Chen (/陈军任/), a final-year PhD student at Department of Mathematics, The University of Hong Kong. I am very fortunate to have [https://sites.google.com/view/michael-ng-math/home Prof. Michael K. Ng] as my advisor. I was also fortunately a visiting graduate student at NUS with [https://www.comp.nus.edu.sg/~scarlett/ Prof. Jonathan Scarlett], at Columbia University with [https://www.columbia.edu/~my2550/ Prof. Ming Yuan]. Expected to graduate in 2025 June, *I am looking for postdoc position starting Fall 2025.*
 
 == Research Interests 
 My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities, most typically, quantization. I would be thrilled to take steps towards optimization, applied probability, deep learning theory and so on.  
 
 == Selective Papers
-Below are some representative papers with links and possibly short notes. See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for full list.
+Below are some representative papers with links and possibly short notes. See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] or [../files/CV_Dec31.pdf  CV] for full list.
 
 - High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization. ~~~ {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 T-IT]{{]}} ~~ {{[}}[https://arxiv.org/pdf/2202.13157 Arxiv]{{]}} \n
   *J. Chen*, C.-L. Wang, M. K. Ng, D. Wang. 
@@ -71,7 +71,7 @@ Neural Information Processing Systems (NeurIPS), 2023.
 
 - Signal Reconstruction from Phase-Only Measurements.~~~{{[}}[https://epubs.siam.org/doi/10.1137/21M1432077 SIAP]{{]}}~~{{[}}[https://arxiv.org/pdf/2109.04365 Arxiv]{{]}}
 \n *J. Chen*, M. K. Ng.\n
-SIAM Jounal on Applied Mathematics, 2023.  
+SIAM Journal on Applied Mathematics, 2023.  
  
 
  
