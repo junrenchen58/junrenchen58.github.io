@@ -15,7 +15,7 @@ Email: /chenjr58/{{@}}/connect.hku.hk/
 ~~~
 
 == Profile
-I am Junren Chen (/陈军任/), a final-year PhD student at Department of Mathematics, The University of Hong Kong. I am very fortunate to have [https://sites.google.com/view/michael-ng-math/home Prof. Michael K. Ng] as my advisor. I was also fortunately a visiting graduate student at NUS with [https://www.comp.nus.edu.sg/~scarlett/ Prof. Jonathan Scarlett], at Columbia University with [https://www.columbia.edu/~my2550/ Prof. Ming Yuan]. 
+I am Junren Chen, a final-year PhD student at Department of Mathematics, The University of Hong Kong. I am very fortunate to have [https://sites.google.com/view/michael-ng-math/home Prof. Michael K. Ng] as my advisor. I was also fortunately a visiting graduate student at NUS with [https://www.comp.nus.edu.sg/~scarlett/ Prof. Jonathan Scarlett], at Columbia University with [https://www.columbia.edu/~my2550/ Prof. Ming Yuan]. 
 
 == Research Interests 
 My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities, most typically, /quantization/. I would be thrilled to explore new research directions!
@@ -23,14 +23,14 @@ My research interests include high-dimensional statistics, nonconvex optimizatio
 == Selective Papers
 Below are some representative papers with links. See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for fuller list.
 
-- High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization. ~~~ {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 T-IT];~[https://arxiv.org/pdf/2202.13157 Arxiv]{{]}} \n
-  *J. Chen*, C.-L. Wang, M. K. Ng, D. Wang. 
+- High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization. ~~~ {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 T-IT],~[https://arxiv.org/pdf/2202.13157 Arxiv]{{]}} \n
+  J. Chen, C.-L. Wang, M. K. Ng, D. Wang. 
 \n IEEE Transactions on Information Theory, 2023.  
  
  
-- Exact Thresholds for Noisy Non-Adaptive Group Testing. ~~~{{[}}[https://arxiv.org/pdf/2401.04884 Arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 SIAM],~ [../files/soda25.pdf Slide]{{]}} 
+- Exact Thresholds for Noisy Non-Adaptive Group Testing. ~~~{{[}}[https://arxiv.org/pdf/2401.04884 Arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 SIAM],~[../files/soda25.pdf Slide]{{]}} 
 \n 
-*J. Chen*, J. Scarlett. 
+J. Chen, J. Scarlett. 
 \n ACM-SIAM Symposium on Discrete Algorithms (SODA 25).
  
 
@@ -38,7 +38,7 @@ Below are some representative papers with links. See [https://scholar.google.com
 
 - A Parameter-Free Two-Bit Covariance Estimator
 with Improved Operator Norm Error Rate.~~~{{[}}[https://arxiv.org/pdf/2308.16059v2 Arxiv]{{]}}
-\n *J. Chen*, M. K. Ng. \n
+\n J. Chen, M. K. Ng. \n
 In Revision, 2023 
  
 
@@ -46,36 +46,36 @@ In Revision, 2023
 
 - One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.~~~{{[}}[https://arxiv.org/pdf/2405.04733 Arxiv]{{]}} 
 \n 
-*J. Chen*, M. Yuan. 
+J. Chen, M. Yuan. 
 \n 
 In Review, 2024 
  
 
 
 - Optimal Quantized Compressed Sensing via Projected Gradient Descent. ~~~{{[}}[https://arxiv.org/pdf/2407.04951 Arxiv]{{]}}
-\n *J. Chen*, M. Yuan. \n 
+\n J. Chen, M. Yuan. \n 
 In Review, 2024  
  
  
 
- - Phase Retrieval of Quaternion Signal via Wirtinger Flow.~~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 T-SP]{{]}} \n *J. Chen*, M. K. Ng. \n
+ - Phase Retrieval of Quaternion Signal via Wirtinger Flow.~~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 T-SP]{{]}} \n J. Chen, M. K. Ng. \n
 IEEE Transactions on Signal Processing, 2023. 
  
 
 
--  A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing. ~~~{{[}}[https://openreview.net/pdf?id=vUXNNLatFv NeurIPS]{{]}}\n *J. Chen*, J. Scarlett, M. K. Ng, Z. Liu. \n 
+-  A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing. ~~~{{[}}[https://openreview.net/pdf?id=vUXNNLatFv NeurIPS]{{]}}\n J. Chen, J. Scarlett, M. K. Ng, Z. Liu. \n 
 Neural Information Processing Systems (NeurIPS), 2023. 
  
  
 
-- Signal Reconstruction from Phase-Only Measurements.~~~{{[}}[https://epubs.siam.org/doi/10.1137/21M1432077 SIAP];~[https://arxiv.org/pdf/2109.04365 Arxiv]{{]}} 
-\n *J. Chen*, M. K. Ng.\n
+- Signal Reconstruction from Phase-Only Measurements.~~~{{[}}[https://epubs.siam.org/doi/10.1137/21M1432077 SIAP],~[https://arxiv.org/pdf/2109.04365 Arxiv]{{]}} 
+\n J. Chen, M. K. Ng.\n
 SIAM Journal on Applied Mathematics, 2023.  
 
 
 
 - Phase Transitions in Phase-Only Compressed Sensing.~~~{{[}}[https://arxiv.org/pdf/2501.11905 Arxiv]{{]}}
-\n *J. Chen*, L. Lai, A. Maleki. \n
+\n J. Chen, L. Lai, A. Maleki. \n
 Submitted, 2025. 
 
  
