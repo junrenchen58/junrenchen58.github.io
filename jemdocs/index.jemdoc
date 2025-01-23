@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-=Welcome to Junren Chen's Homepage   
+=Junren Chen, Math PhD Student   
 
 ~~~
 {}{img_left}{imgs/hkuoffice_Aug.jpg}{alt text}{135}{180}
@@ -23,12 +23,12 @@ My research interests include high-dimensional statistics, nonconvex optimizatio
 == Selective Papers
 Below are some representative papers with links. See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for fuller list.
 
-- High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization. ~~~ {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 T-IT]{{]}} ~~ {{[}}[https://arxiv.org/pdf/2202.13157 Arxiv]{{]}} \n
+- High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization. ~~~ {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 T-IT];~[https://arxiv.org/pdf/2202.13157 Arxiv]{{]}} \n
   *J. Chen*, C.-L. Wang, M. K. Ng, D. Wang. 
 \n IEEE Transactions on Information Theory, 2023.  
  
  
-- Exact Thresholds for Noisy Non-Adaptive Group Testing. ~~~{{[}}[https://arxiv.org/pdf/2401.04884 Arxiv]{{]}} ~~ {{[}}[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 SIAM]{{]}} ~~ {{[}}[../files/soda25.pdf Slide]{{]}}
+- Exact Thresholds for Noisy Non-Adaptive Group Testing. ~~~{{[}}[https://arxiv.org/pdf/2401.04884 Arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 SIAM],~ [../files/soda25.pdf Slide]{{]}} 
 \n 
 *J. Chen*, J. Scarlett. 
 \n ACM-SIAM Symposium on Discrete Algorithms (SODA 25).
@@ -68,7 +68,7 @@ Neural Information Processing Systems (NeurIPS), 2023.
  
  
 
-- Signal Reconstruction from Phase-Only Measurements.~~~{{[}}[https://epubs.siam.org/doi/10.1137/21M1432077 SIAP]{{]}}~~{{[}}[https://arxiv.org/pdf/2109.04365 Arxiv]{{]}}
+- Signal Reconstruction from Phase-Only Measurements.~~~{{[}}[https://epubs.siam.org/doi/10.1137/21M1432077 SIAP];~[https://arxiv.org/pdf/2109.04365 Arxiv]{{]}} 
 \n *J. Chen*, M. K. Ng.\n
 SIAM Journal on Applied Mathematics, 2023.  
 
