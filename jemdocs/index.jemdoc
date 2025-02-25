@@ -2,10 +2,11 @@
 =Junren Chen - Math PhD Student   
 
 ~~~
-{}{img_left}{imgs/hkuoffice_Aug.jpg}{alt text}{135}{180}
-PhD Student\n  Department of Mathematics\n The University of Hong Kong
+{}{img_left}{imgs/hkuoffice_Aug.jpg}{alt text}{135}{180}~~ ~~
+PhD Student\n Department of Mathematics\n The University of Hong Kong
 \n
-RR212, Run Run Shaw Building \n
+RR212, Run Run Shaw Building 
+\n
 Pokfulam, Hong Kong
 \n
 \n
@@ -15,10 +16,8 @@ Email: /chenjr58/{{@}}/connect.hku.hk/
 ~~~
 
 == Profile
-I am Junren Chen, a final-year PhD student at Department of Mathematics, The University of Hong Kong. I am very fortunate to have [https://sites.google.com/view/michael-ng-math/home Prof. Michael K. Ng] as my advisor. I was also fortunately a visiting graduate student at NUS with [https://www.comp.nus.edu.sg/~scarlett/ Prof. Jonathan Scarlett], at Columbia University with [https://www.columbia.edu/~my2550/ Prof. Ming Yuan]. 
+I am a final-year PhD student at Department of Mathematics, The University of Hong Kong.  My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities, most typically, /quantization/.
 
-== Research Interests 
-My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities, most typically, /quantization/. I would be thrilled to explore new research directions!
 
 == Selective Papers
 Below are some representative papers with links. See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for fuller list.
