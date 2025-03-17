@@ -15,7 +15,7 @@ Pokfulam, Hong Kong
 
 \n
 
-I am a final-year PhD student at Department of Mathematics, The University of Hong Kong.  My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities, most typically, /quantization/.
+I am a final-year PhD student at Department of Mathematics, The University of Hong Kong.  My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities such as quantization.
 
 
 ~~~
@@ -47,7 +47,7 @@ In Revision, 2023
 
 
 
-- *One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.*~~~{{[}}[https://arxiv.org/pdf/2405.04733 Arxiv],~[../files/optimal_qcs.zip Code]{{]}} 
+- *One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.*~~~{{[}}[https://arxiv.org/pdf/2405.04733 Arxiv]{{]}} 
 \n 
 J. Chen, M. Yuan. 
 \n 
@@ -55,7 +55,7 @@ Preprint, 2024
  
 
 
-- *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* ~~~{{[}}[https://arxiv.org/pdf/2407.04951 Arxiv]{{]}}
+- *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* ~~~{{[}}[https://arxiv.org/pdf/2407.04951 Arxiv],~[../files/optimal_qcs.zip Code]{{]}}
 \n J. Chen, M. Yuan. \n 
 Preprint, 2024  
  
