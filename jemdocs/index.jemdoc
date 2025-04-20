@@ -27,13 +27,13 @@ I am a final-year PhD student at Department of Mathematics, The University of Ho
 Below are some representative papers with links. See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for fuller list.
 
 - *High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization.* ~~~ {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 ieee],~[https://arxiv.org/pdf/2202.13157 arxiv]{{]}} \n
-  J. Chen, C.-L. Wang, M. K. Ng, D. Wang. 
+  Junren Chen, Cheng-Long Wang, Michael K. Ng, Di Wang. 
 \n IEEE Transactions on Information Theory, 2023.  
  
  
 - *Exact Thresholds for Noisy Non-Adaptive Group Testing.* ~~~{{[}}[https://arxiv.org/pdf/2401.04884 arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 siam]{{]}} 
 \n 
-J. Chen, J. Scarlett. 
+Junren Chen, Jonathan Scarlett. 
 \n ACM-SIAM Symposium on Discrete Algorithms (SODA 25).
  
 
@@ -41,7 +41,7 @@ J. Chen, J. Scarlett.
 
 - *A Parameter-Free Two-Bit Covariance Estimator
 with Improved Operator Norm Error Rate.*~~~{{[}}[https://arxiv.org/pdf/2308.16059v2 arxiv],~[../files/2-bit-covariance.zip matlab]{{]}}
-\n J. Chen, M. K. Ng. \n
+\n Junren Chen, Michael K. Ng. \n
 In Revision, 2023 
  
 
@@ -49,37 +49,27 @@ In Revision, 2023
 
 - *One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.*~~~{{[}}[https://arxiv.org/pdf/2405.04733 arxiv],~[../files/1bpr.zip matlab]{{]}} 
 \n 
-J. Chen, M. Yuan. 
+Junren Chen, Ming Yuan. 
 \n 
 Preprint, 2024 
  
 
 
 - *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* ~~~{{[}}[https://arxiv.org/pdf/2407.04951 arxiv],~[../files/optimal_qcs.zip matlab]{{]}}
-\n J. Chen, M. Yuan. \n 
+\n Junren Chen, Ming Yuan. \n 
 Preprint, 2024  
  
  
 
- - *Phase Retrieval of Quaternion Signal via Wirtinger Flow.*~~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 ieee],~[../files/quaternion-PR.zip matlab]{{]}} \n J. Chen, M. K. Ng. \n
+ - *Phase Retrieval of Quaternion Signal via Wirtinger Flow.*~~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 ieee],~[../files/quaternion-PR.zip matlab]{{]}} \n Junren Chen, Michael K. Ng. \n
 IEEE Transactions on Signal Processing, 2023. 
- 
 
-
--  *A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing.* ~~~{{[}}[https://openreview.net/pdf?id=vUXNNLatFv neurips]{{]}}\n J. Chen, J. Scarlett, M. K. Ng, Z. Liu. \n 
-Neural Information Processing Systems (NeurIPS), 2023. 
- 
- 
-
-- *Signal Reconstruction from Phase-Only Measurements.*~~~{{[}}[https://epubs.siam.org/doi/10.1137/21M1432077 siam],~[https://arxiv.org/pdf/2109.04365 arxiv]{{]}} 
-\n J. Chen, M. K. Ng.\n
-SIAM Journal on Applied Mathematics, 2023.  
 
 
 
 - *Phase Transitions in Phase-Only Compressed Sensing.*~~~{{[}}[https://arxiv.org/pdf/2501.11905 arxiv]{{]}}
-\n J. Chen, L. Lai, A. Maleki. \n
-Preprint, 2025. 
+\n Junren Chen, Lexiao Lai, Arian Maleki. \n
+Accepted to ISIT 2025. 
 
  
 
