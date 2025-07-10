@@ -59,6 +59,11 @@ Junren Chen, Ming Yuan.
 \n Junren Chen, Ming Yuan. \n 
 /Preprint/, 2024  
  
+
+- *Robust Instance Optimal Phase-Only Compressed Sensing.* ~~~{{[}}[https://arxiv.org/abs/2408.06275 arxiv],~[../files/RIO-POCS.zip matlab]{{]}}
+\n Junren Chen, Michael K. Ng, Jonathan Scarlett. \n 
+/Preprint/, 2024  
+
  
 
  - *Phase Retrieval of Quaternion Signal via Wirtinger Flow.*~~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 ieee],~[../files/quaternion-PR.zip matlab]{{]}} \n Junren Chen, Michael K. Ng. \n
@@ -69,7 +74,7 @@ Junren Chen, Ming Yuan.
 
 - *Phase Transitions in Phase-Only Compressed Sensing.*~~~{{[}}[https://arxiv.org/pdf/2501.11905 arxiv]{{]}}
 \n Junren Chen, Lexiao Lai, Arian Maleki. \n
-Accepted to /IEEE International Symposium on Information Theory/ (ISIT), 2025. 
+/IEEE International Symposium on Information Theory/ (ISIT), 2025. 
 
  
 
