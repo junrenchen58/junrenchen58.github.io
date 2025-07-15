@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-=Junren Chen - Math PhD Student   
+=Junren Chen  
 
 ~~~
 {}{img_left}{imgs/jr_grad.jpg}{alt text}{400}{295}~~ ~~
-PhD Student\n [https://hkumath.hku.hk/web/index.php Department of Mathematics]\n  University of Hong Kong
+Graduate Student\n [https://hkumath.hku.hk/web/index.php Department of Mathematics]\n  University of Hong Kong
 \n
 Pokfulam, Hong Kong
 \n
@@ -15,7 +15,7 @@ Pokfulam, Hong Kong
 
 \n
 
-I am a final-year PhD student at Department of Mathematics, The University of Hong Kong.  My research interests include high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing and machine learning. I study both the information-theoretic and the algorithmic aspects of a specific problem. My Ph.D. research has been focused on estimation under nonlinearities such as quantization.
+I am a final-year PhD student at Department of Mathematics, University of Hong Kong.  My research interests lie in high-dimensional statistics, nonconvex optimization, mathematics of data science, signal processing, and machine learning. During my Ph.D., I focused on problems at the intersection of statistics, information and optimization, with a particular emphasis on estimation under nonlinear observations.
 
 
 ~~~
@@ -24,57 +24,71 @@ I am a final-year PhD student at Department of Mathematics, The University of Ho
 
 
 == Selected Papers
-Below are some representative papers with links. See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for fuller list.
+See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for full list.
 
-- *High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization.* ~~~ {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 ieee],~[https://arxiv.org/pdf/2202.13157 arxiv]{{]}} \n
+- *High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization.*  \n
   Junren Chen, Cheng-Long Wang, Michael K. Ng, Di Wang. 
-\n /IEEE Transactions on Information Theory/, 2023.  
+\n /IEEE Transactions on Information Theory/, 2023.~~{{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 ieee],~[https://arxiv.org/pdf/2202.13157 arxiv]{{]}}
  
  
-- *Exact Thresholds for Noisy Non-Adaptive Group Testing.* ~~~{{[}}[https://arxiv.org/pdf/2401.04884 arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 siam]{{]}} 
+- *Exact Thresholds for Noisy Non-Adaptive Group Testing.*  
 \n 
 Junren Chen, Jonathan Scarlett. 
-\n /ACM-SIAM Symposium on Discrete Algorithms/ (SODA), 2025.
+\n /ACM-SIAM Symposium on Discrete Algorithms/ (SODA), 2025.~~{{[}}[https://arxiv.org/pdf/2401.04884 arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 siam]{{]}} 
+
  
 
 
 
 - *A Parameter-Free Two-Bit Covariance Estimator
-with Improved Operator Norm Error Rate.*~~~{{[}}[https://arxiv.org/pdf/2308.16059v2 arxiv],~[https://www.sciencedirect.com/science/article/pii/S1063520325000284?dgcid=author elsevier],~[../files/2-bit-covariance.zip matlab]{{]}}
+with Improved Operator Norm Error Rate.* 
 \n Junren Chen, Michael K. Ng. \n
-/Applied and Computational Harmonic Analysis/, 2025.   
+/Applied and Computational Harmonic Analysis/, 2025.~~{{[}}[https://arxiv.org/pdf/2308.16059v2 arxiv],~[https://www.sciencedirect.com/science/article/pii/S1063520325000284?dgcid=author elsevier],~[../files/2-bit-covariance.zip matlab]{{]}}
+   
  
 
 
 
-- *One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.*~~~{{[}}[https://arxiv.org/pdf/2405.04733 arxiv],~[../files/1bpr.zip matlab]{{]}} 
+- *One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.* 
 \n 
 Junren Chen, Ming Yuan. 
 \n 
-/Preprint/, 2024.
+/Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2405.04733 arxiv],~[../files/1bpr.zip matlab]{{]}} 
+
  
 
 
-- *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* ~~~{{[}}[https://arxiv.org/pdf/2407.04951 arxiv],~[../files/optimal_qcs.zip matlab]{{]}}
-\n Junren Chen, Ming Yuan. \n 
-/Preprint/, 2024.
+- *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* \n Junren Chen, Ming Yuan. \n 
+/Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2407.04951 arxiv],~[../files/optimal_qcs.zip matlab]{{]}}
+
+
+
  
 
-- *Robust Instance Optimal Phase-Only Compressed Sensing.* ~~~{{[}}[https://arxiv.org/abs/2408.06275 arxiv],~[../files/RIO-POCS.zip matlab]{{]}}
+ - *Phase Retrieval of Quaternion Signal via Wirtinger Flow.*  
+\n Junren Chen, Michael K. Ng. \n
+/IEEE Transactions on Signal Processing/, 2023.~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 ieee],~[../files/quaternion-PR.zip matlab]{{]}} 
+
+
+- *On Subsample Size of Quantile-Based Randomized Kaczmarz.*
+\n Jian-Feng Cai, Junren Chen, Anna Ma, Tong Wu. \n
+/Preprint/, 2025.~~{{[}}pdf,~[https://github.com/wtree101/matlab-rk-analysis matlab]{{]}}
+
+
+- *Robust Instance Optimal Phase-Only Compressed Sensing.* 
 \n Junren Chen, Michael K. Ng, Jonathan Scarlett. \n 
-/Preprint/, 2024.
+/Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2408.06275v2 arxiv],~[../files/RIO-POCS.zip matlab]{{]}}
+
+
+
+
+- *Phase Transitions in Phase-Only Compressed Sensing.*
+\n Junren Chen, Lexiao Lai, Arian Maleki. \n
+/IEEE International Symposium on Information Theory/ (ISIT), 2025.~~{{[}}[https://arxiv.org/pdf/2501.11905 arxiv]{{]}}
+
 
  
-
- - *Phase Retrieval of Quaternion Signal via Wirtinger Flow.*~~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 ieee],~[../files/quaternion-PR.zip matlab]{{]}} \n Junren Chen, Michael K. Ng. \n
-/IEEE Transactions on Signal Processing/, 2023. 
-
-
-
-
-- *Phase Transitions in Phase-Only Compressed Sensing.*~~~{{[}}[https://arxiv.org/pdf/2501.11905 arxiv]{{]}}
-\n Junren Chen, Lexiao Lai, Arian Maleki. \n
-/IEEE International Symposium on Information Theory/ (ISIT), 2025. 
+ 
 
  
 
