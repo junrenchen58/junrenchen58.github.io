@@ -1,1 +1,1 @@
-# Junren Chen's Homepage
+# J. Chen's Homepage
