@@ -1,8 +1,8 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+# jemdoc: menu{MENU}{index.html} 
 =Junren Chen  
 
-~~~
-{}{img_left}{imgs/jr_grad.jpg}{alt text}{400}{295}~~ ~~
+#~~~
+#{}{img_left}{imgs/jr_grad.jpg}{alt text}{400}{295}~~ ~~
 Novikov Postdoc Fellow\n [https://www-math.umd.edu/ Department of Mathematics]\n  University of Maryland 
 \n
 4176 Campus Dr, College Park 
@@ -10,34 +10,37 @@ Novikov Postdoc Fellow\n [https://www-math.umd.edu/ Department of Mathematics]\n
 \n
 *Office*: 4305 Kirwan Hall 
 \n
-*Email*: /jchen58/{{@}}/umd.edu/ ~(/chenjr58/{{@}}/connect.hku.hk/)
-
+*Email*: [mailto:jchen58@umd.edu jchen58@umd.edu] 
+\n ([mailto:chenjr58@connect.hku.hk chenjr58@connect.hku.hk])
 
 \n
 
-I am a  Departmental Postdoc at Department of Mathematics, University of Maryland, College Park, working with Prof. [https://sites.google.com/site/yunyangstat/ Yun Yang].  My research interests lie in high-dimensional statistics, nonconvex optimization, math of data science, signal processing and machine learning. I got my PhD from the Mathematics Department of The University of Hong Kong, under the guidance of Prof. [https://sites.google.com/view/michael-ng-math/home Michael K. Ng].
-My doctoral research focused on problems at the intersection of statistics, information and optimization, with a particular emphasis on estimation under nonlinear observations.
+I am a  Departmental Postdoc at Department of Mathematics, University of Maryland, College Park. My research interests lie in high-dimensional statistics, nonconvex optimization, math of data, signal processing and machine learning. Previously, I got my PhD from the Math Department of The University of Hong Kong. I am happy to discuss research and potential collaboration.
+
+#My doctoral research focused on problems at the intersection of statistics, information and optimization, with a particular emphasis on estimation under nonlinear observations.
 
 
-~~~
+#~~~
 
+ 
+== Selected/Recent Papers {{[}}[https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar]{{]}}
 
-
-
-== Selected Papers
-See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar] for full list.
-
+ 
 - *High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization.*  \n
   Junren Chen, Cheng-Long Wang, Michael K. Ng, Di Wang. 
 \n /IEEE Transactions on Information Theory/, 2023.~~{{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 ieee],~[https://arxiv.org/pdf/2202.13157 arxiv]{{]}}
  
+
+- *A Unified Approach to Statistical Estimation Under Nonlinear Observations: Tensor Estimation and Matrix Factorization.* \n
+Junren Chen, Lijun Ding, Dong Xia, Ming Yuan.
+\n /Preprint/, 2025. ~~{{[}}[https://arxiv.org/pdf/2510.16965 arxiv],~[https://github.com/junrenchen58/Tensor-estimation-matrix-factorization matlab]{{]}}
+
  
 - *Exact Thresholds for Noisy Non-Adaptive Group Testing.*  
 \n 
 Junren Chen, Jonathan Scarlett. 
 \n /ACM-SIAM Symposium on Discrete Algorithms/ (SODA), 2025.~~{{[}}[https://arxiv.org/pdf/2401.04884 arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 siam]{{]}} 
 
- 
 
 
 
@@ -83,16 +86,15 @@ Junren Chen, Ming Yuan.
 
 
 
-- *Phase Transitions in Phase-Only Compressed Sensing.*
-\n Junren Chen, Lexiao Lai, Arian Maleki. \n
-/IEEE International Symposium on Information Theory/ (ISIT), 2025.~~{{[}}[https://arxiv.org/pdf/2501.11905 arxiv]{{]}}
-
-
- 
+- *A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing.*
+\n Junren Chen, Jonathan Scarlett, Michael K. Ng, Zhaoqiang Liu. \n
+/Conference on Neural Information Processing Systems/ (NeurIPS), 2023.~~{{[}}[https://arxiv.org/pdf/2310.03758 arxiv], [https://proceedings.neurips.cc/paper_files/paper/2023/file/1a04df6a405210aab4986994b873db9b-Paper-Conference.pdf openreview]{{]}}
  
 
  
 
+ 
+ 
  
 
 

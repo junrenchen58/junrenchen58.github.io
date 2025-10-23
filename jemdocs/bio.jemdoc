@@ -1,31 +1,30 @@
-# jemdoc: menu{MENU}{biography.html}, nofooter  
+# jemdoc: menu{MENU}{biography.html}  
 == Biography
 
 == Employment
-- *Novikov Postdoc Fellow, Department of Mathematics, University of Maryland, College Park* (Sep 2025 - Present)
--- Mentor: Prof. [https://sites.google.com/site/yunyangstat/ Yun Yang]
+- *Novikov Postdoc, Department of Mathematics, University of Maryland* (Sep 2025 - Present)
+#-- Hosts: Profs. [https://sites.google.com/site/yunyangstat/ Yun Yang], [https://math.umd.edu/~rvbalan/ Radu Balan]
 
 == Education
-- *PhD, Department of Mathematics, The University of Hong Kong* (Sep 2021 - Aug 2025)
+- *PhD, Department of Mathematics, The University of Hong Kong* (2021 - 2025)
 -- Advisor: Prof. [https://sites.google.com/view/michael-ng-math/home Michael K. Ng] 
-- *BSc, School of Mathematics, Sun Yat-sen University* (Aug 2017 - Jun 2021) 
+- *BSc, School of Mathematics, Sun Yat-sen University* (2017 - 2021) 
 
+#== Visiting Positions
+#- *Department of Mathematics, University of California, Irvine* (Feb 2025 - Apr 2025)
+#-- Host: Prof. [https://www.math.uci.edu/~rvershyn/ Roman Vershynin]
+#- *Department of Statistics, Columbia University* (Jan 2024 - Jul 2024)
+#-- Host: Prof. [https://www.columbia.edu/~my2550/ Ming Yuan]
+#- *Department of Computer Science, National University of Singapore* (Jun 2023 - Sep 2023)
+#-- Host: Prof. [https://www.comp.nus.edu.sg/~scarlett/ Jonathan Scarlett]
 
-== Visiting Positions
-- *Department of Mathematics, University of California, Irvine* (Feb 2025 - Apr 2025)
--- Host: Prof. [https://www.math.uci.edu/~rvershyn/ Roman Vershynin]
-- *Department of Statistics, Columbia University* (Jan 2024 - Jul 2024)
--- Host: Prof. [https://www.columbia.edu/~my2550/ Ming Yuan]
-- *Department of Computer Science, National University of Singapore* (Jun 2023 - Sep 2023)
--- Host: Prof. [https://www.comp.nus.edu.sg/~scarlett/ Jonathan Scarlett]
+#== Teaching 
+#- MATH1009 - Basic Mathematics for Business and Economics (2022 Fall, 2023 Fall)
 
-== Teaching 
-- MATH1009 - Basic Mathematics for Business and Economics (2022 Fall, 2023 Fall)
+#- MATH2014 - Multivariable Calculus and Linear Algebra (2022 Spring, 2023 Spring, 2024 Spring)
 
-- MATH2014 - Multivariable Calculus and Linear Algebra (2022 Spring, 2023 Spring, 2024 Spring)
+#- MATH3904 - Introduction to Optimization (2024 Fall)
 
-- MATH3904 - Introduction to Optimization (2024 Fall)
+#== Reviewer
 
-== Reviewer
-
-TIT, ACHA, TSP, JSC, IEEE SPL, NeurIPS, ISIT
+#TIT, ACHA, TSP, JSC, IEEE SPL, NeurIPS, ISIT
