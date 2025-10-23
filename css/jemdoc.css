@@ -676,7 +676,7 @@ div#toptitle{
 
 /* Limit text width on the main content area */
 #layout-content{
-    max-width: 800px;     /* 你可以换 760 / 900 看喜好 */
+    max-width: 760px;     /* 你可以换 760 / 900 看喜好 */
     margin: 0 auto;       /* 居中 */
 }
 

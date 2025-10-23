@@ -1,8 +1,8 @@
-# jemdoc: menu{MENU}{index.html} 
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{index.html}  
 =Junren Chen  
 
-#~~~
-#{}{img_left}{imgs/jr_grad.jpg}{alt text}{400}{295}~~ ~~
+ 
 Novikov Postdoc Fellow\n [https://www-math.umd.edu/ Department of Mathematics]\n  University of Maryland 
 \n
 4176 Campus Dr, College Park 
@@ -15,12 +15,10 @@ Novikov Postdoc Fellow\n [https://www-math.umd.edu/ Department of Mathematics]\n
 
 \n
 
-I am a  Departmental Postdoc at Department of Mathematics, University of Maryland, College Park. My research interests lie in high-dimensional statistics, nonconvex optimization, math of data, signal processing and machine learning. Previously, I got my PhD from the Math Department of The University of Hong Kong. I am happy to discuss research and potential collaboration.
+I am a  Departmental Postdoc at University of Maryland. My research interests lie in high-dimensional statistics, nonconvex optimization, math of data, signal processing and machine learning. Previously, I got my PhD from the Math Department of The University of Hong Kong. I am happy to discuss research and potential collaboration.
 
 #My doctoral research focused on problems at the intersection of statistics, information and optimization, with a particular emphasis on estimation under nonlinear observations.
-
-
-#~~~
+ 
 
  
 == Selected/Recent Papers {{[}}[https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar]{{]}}
