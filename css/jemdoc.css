@@ -681,11 +681,10 @@ div#toptitle{
 }
 
 
-/*h1深色+没有下划线/*
+/* h1深灰 + 细下划线，和 h2 视觉统一 */
 h1{
-    color:#222 !important;                     /* 深灰，不是纯黑 */
-    font-weight:700;                           /* 比 h2 稍重一点 */
-    border-bottom:1px solid #e0e0e0 !important;/* 与 h2 下划线统一 */
+    color:#222 !important;
+    font-weight:700;
     padding-bottom:.25rem !important;
     margin-top:1.6rem !important;
 }
