@@ -1,9 +1,9 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
-	border: none;
-	border-collapse: separate;
-	background: white;
+    border: none;
+    border-collapse: separate;
+    background: white;
 }
 
 body {
@@ -22,23 +22,23 @@ body {
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-	text-align: left;
-	vertical-align: top;
+    text-align: left;
+    vertical-align: top;
 }
 
 #layout-menu td {
 	background: #f4f4f4;
-	vertical-align: top;
+    vertical-align: top;
 }
 
 #layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
-	border: none;
-	background: white;
-	text-align: left;
-	vertical-align: top;
+    border: none;
+    background: white;
+    text-align: left;
+    vertical-align: top;
 }
 
 #layout-menu a {
@@ -47,7 +47,7 @@ body {
 }
 
 tt {
-	background: #ffffdd;
+    background: #ffffdd;
 }
 
 pre, tt {
@@ -136,7 +136,7 @@ h2 {
 }
 
 h2 + h3 {
-	padding-top: 0.2em;
+    padding-top: 0.2em;
 }
 
 h3 {
@@ -297,10 +297,7 @@ span.comment, span.comment > *, span.string, span.string > * {
 }
 
 @media print {
-	#layout-menu {
-		display: none;
-	}
-
+	#layout-menu { display: none; }
 }
 
 #fwtitle {
@@ -339,32 +336,365 @@ img.eqwl {
 }
 
 table {
-	border: 2px solid black;
-	border-collapse: collapse;
+    border: 2px solid black;
+    border-collapse: collapse;
 }
 
 td {
-	padding: 2px;
-	padding-left: 0.5em;
-	padding-right: 0.5em;
-	text-align: center;
-	border: 1px solid gray;
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: center;
+    border: 1px solid gray;
 }
 
 table + table {
-	margin-top: 1em;
+    margin-top: 1em;
 }
 
 tr.heading {
-	font-weight: bold;
-	border-bottom: 2px solid black;
+    font-weight: bold;
+    border-bottom: 2px solid black;
 }
 
 img {
-	border: none;
+    border: none;
 }
 
 table.imgtable, table.imgtable td {
-	border: none;
-	text-align: left;
+    border: none;
+    text-align: left;
 }
+
+/* ==== Junren site tweaks (append at end) ==== */
+html { scroll-behavior: smooth; }
+body{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans",
+               "Helvetica Neue", Arial, "Apple Color Emoji","Segoe UI Emoji";
+  line-height: 1.6;
+  color:#111;
+}
+#layout, .content { max-width: 840px; margin: 0 auto; padding: 0 1.2rem; }
+h1{ font-size: 2rem; margin-top: .8rem; }
+h2{ font-size: 1.35rem; margin-top: 1.6rem; border-bottom: 1px solid #eee; padding-bottom: .2rem;}
+h3{ font-size: 1.06rem; margin-top: 1.2rem; }
+a{ text-decoration: none; color:#0b3d91; } /* 近似 MidnightBlue */
+a:hover{ text-decoration: underline; }
+
+/* ===== Publications-only styling via :has() ===== */
+/* 只命中含有 arXiv / DOI / IEEE / ACM / Springer / GitHub / code 等链接的 li —— 典型为论文 */
+li:has(a[href*="arxiv.org"]),
+li:has(a[href*="doi.org"]),
+li:has(a[href*="ieeexplore.ieee.org"]),
+li:has(a[href*="acm.org"]),
+li:has(a[href*="springer"]),
+li:has(a[href*="github.com"]),
+li:has(a[href$=".zip"]),
+li:has(a[href*="code"]) {
+  margin: .75rem 0 1rem;
+  line-height: 1.55;
+}
+
+/* 让论文题目（你用 *...* 产生的 <em>）更显眼 */
+li:has(a[href*="arxiv.org"]) em,
+li:has(a[href*="doi.org"]) em,
+li:has(a[href*="ieeexplore.ieee.org"]) em,
+li:has(a[href*="acm.org"]) em,
+li:has(a[href*="springer"]) em,
+li:has(a[href*="github.com"]) em,
+li:has(a[href$=".zip"]) em,
+li:has(a[href*="code"]) em {
+  font-weight: 600;
+  font-size: 1.02rem;
+}
+
+/* 把 arXiv / paper / code 等链接渲染成“小徽章” */
+li:has(a[href*="arxiv.org"]) a,
+li:has(a[href*="doi.org"]) a,
+li:has(a[href*="ieeexplore.ieee.org"]) a,
+li:has(a[href*="acm.org"]) a,
+li:has(a[href*="springer"]) a,
+li:has(a[href*="github.com"]) a,
+li:has(a[href$=".zip"]) a,
+li:has(a[href*="code"]) a {
+  border:none;
+  background:none;
+  padding:0;
+  color:#2b3a63;       /* 稍微特别 */
+  font-weight:500;     /* 比正文略重 */
+  text-decoration:none;
+}
+/* ===== Academic Title Style C (Minimal grey underline like AoS/TIT) ===== */
+
+/* h1 不动（主页姓名继续保持默认蓝色） */
+
+h2{
+    color:#222 !important;
+    font-weight:600;
+    border-bottom:1px solid #e0e0e0 !important;  /* 与 h1 的线完全一致 */
+    margin-top:1.6rem !important;
+    padding-bottom:.20rem !important;
+}
+h3{
+  color:#333 !important;
+  font-weight:600;
+  border-bottom:none !important;               /* h3 无下划线 */
+  margin-top:1.2rem !important;
+}
+
+/* sidebar深灰 */
+ 
+/* ===== Low-key sidebar to match h2/h3 grey aesthetic ===== */
+
+#layout-menu{
+    background: #f4f4f4 !important;      /* 极浅灰，而不是白或黑 */
+    border-right: 1px solid #dcdcdc !important;
+}
+
+#layout-menu a{
+    color:#444 !important;               /* 与 h3 统一的深灰文字 */
+}
+
+#layout-menu a:hover{
+    color:#000 !important;
+}
+
+#layout-menu a.current{
+    color:#000 !important;
+    border-bottom:1px solid #999 !important;   /* 和 h2 下划线灰度接近 */
+}
+ 
+
+
+/* dark mode 自动适配 */
+@media (prefers-color-scheme: dark){
+  h2{
+    color:#e6e6e6 !important;
+    border-bottom:1px solid #2a2a2a !important;
+  }
+  h3{
+    color:#d0d0d0 !important;
+  }
+}
+
+/*整体更紧凑 */
+/* ===== Ultra-compact academic mode ===== */
+ 
+
+/* 列表 — 也放松一档 */
+#layout-content ul,
+#layout-content ol{
+  margin: .35rem 0 .70rem !important;
+}
+#layout-content li{
+  margin: .30rem 0 .45rem !important;
+  line-height: 1.45 !important;
+}
+
+/* 标题与正文间距 — 不那么急促 */
+h2{ margin-top: 1.2rem !important; }
+h3{ margin-top: .9rem !important; }
+
+h2 + p,
+h3 + p{
+  margin-top: .40rem !important;
+}
+
+/* 邮箱行内元素保持原规则 */
+#layout-content a[href^="mailto"]{
+  line-height:1.0 !important;
+}
+ 
+ 
+/* === 保证头像+文字顶对齐 === */
+table.imgtable td{
+    vertical-align: top !important;
+}
+
+/* === 在左列(放头像的td)右边留出间距 === */
+table.imgtable td:first-child{
+    padding-right: 1.2rem !important;  /* 可改 0.6~1.4 调节 */
+}
+
+/* 让头像表更紧凑一些 */
+table.imgtable{ border-collapse: collapse; }
+table.imgtable td{ padding: 0 .8rem 0 0; }  /* 右侧留 0.8rem 间距即可 */
+
+/* 头像在小屏自适应换行，防止挤压正文 */
+@media (max-width: 780px){
+  table.imgtable, table.imgtable tr, table.imgtable td{ display:block; width:100%; }
+  table.imgtable td{ padding:0 !important; }
+  table.imgtable img{ max-width: 180px; margin:.4rem 0 1rem auto; display:block; }
+}
+
+/* 头像统一圆角和阴影（与主页风格保持一致） */
+table.imgtable img{
+  border-radius: 14px;
+  box-shadow: 0 2px 12px rgba(0,0,0,.06);
+}
+
+
+/* === Dark mode for jemdoc (auto by system) === */
+@media (prefers-color-scheme: dark){
+  body{ background:#0f0f12; color:#e9e9ea; }
+  a{ color:#8ab4ff; }
+
+  /* 标题（你走的是 C 风格：细灰线） */
+  h2{
+    color:#e6e6e6 !important;
+    border-bottom:1px solid #2a2a2a !important;
+  }
+  h3{ color:#d0d0d0 !important; }
+
+  /* 侧栏与分隔线 */
+  #layout-menu{ background:#15161a; }
+  #layout-menu a{ color:#cfcfcf !important; }
+  #layout-menu a.current{ color:#fff !important; border-bottom:1px solid #9a9a9a !important; }
+  div#toptitle{ border-bottom:1px solid #2a2a2a !important; }
+
+  /* 代码块 & 表格 */
+  div.codeblock > div.blockcontent{ background:#121417; border:1px solid #2a2a2a; }
+  table{ border-color:#2a2a2a; }
+  td{ border-color:#2a2a2a; }
+
+  /* 论文里的小徽章/按钮（若有） */
+  .tag, .btn{ border-color:#2a2a2a; background:#17181a; color:#dcdcdc; }
+  .tag:hover, .btn:hover{ background:#1e2024; }
+}
+
+/* 背景颜色 */
+/* === Make gradient show on index too === */
+
+/* 1) 把背景放在 html（不放 body） */
+html{
+  background:
+    linear-gradient(to bottom, #fbfbfc 0%, #ffffff 100%),
+    radial-gradient(rgba(0,0,0,0.035) 1px, transparent 1.6px),
+    radial-gradient(rgba(0,0,0,0.03)  1px, transparent 1.8px) !important;
+  background-size: auto, 3px 3px, 5px 5px;
+  background-position: 0 0, 0 0, 1px 1px;
+}
+ 
+/* 2) 这些容器在一些主题里会自带白底，把它们清成透明 */
+body,
+#tlayout,
+#tlayout td,
+#layout-content,
+#layout-menu,
+div#toptitle{
+  background: transparent !important;
+}
+
+/* 3) 如果你要“白纸卡片 + 灰背景”的效果，把上面的 #layout-content 透明改为白纸： */
+/*
+#layout-content{
+  background:#fff !important;
+  box-shadow:0 0 18px rgba(0,0,0,0.05);
+  padding: 1.2rem 1.6rem;
+  border-radius:8px;
+}
+#tlayout, #tlayout td, #layout-menu, div#toptitle{ background: transparent !important; }
+*/
+
+/* ===== Sidebar: low-contrast research style ===== */
+
+#layout-menu{
+    background: rgba(255,255,255,0.55) !important;  /* 半透明=与磨砂融合 */
+    backdrop-filter: blur(6px);                     /* 玻璃磨砂 sidebar */
+    border-right: 1px solid #dcdcdc !important;
+}
+
+#layout-menu a{
+    color:#444 !important;               /* 跟 h3 同风格 */
+    font-weight:500;
+}
+
+#layout-menu a:hover{
+    color:#000 !important;
+}
+
+#layout-menu a.current{
+    color:#000 !important;
+    border-bottom:1px solid #999 !important;
+}
+
+/* 链接颜色 */
+#layout-content a {
+    color: #111111 !important;        /* 极深灰 */
+    text-decoration: none;
+}
+#layout-content a:hover{
+    color:#000 !important;
+    text-decoration:underline;
+}
+
+/* ===== Sidebar S3: almost invisible, calm academic style ===== */
+
+/* 让侧栏几乎融入背景：透明底 + 极淡分隔线 */
+#layout-menu{
+  background: transparent !important;
+  border-right: 1px solid #f0f0f0 !important;   /* 极淡分割，存在感接近无 */
+  box-shadow: none !important;
+}
+
+/* 链接降饱和：正常态不抢戏，hover 才明显 */
+#layout-menu a{
+  color: #555 !important;
+  font-weight: 500;
+  text-decoration: none;
+}
+#layout-menu a:hover{
+  color: #000 !important;
+  text-decoration: underline;                    /* 交互提示，但仍然克制 */
+}
+
+/* 当前页面：轻微强调，不加底色不加背景块 */
+#layout-menu a.current{
+  color: #111 !important;
+  border-bottom: 1px solid #e6e6e6 !important;   /* 极轻下划线替代高亮 */
+}
+
+/* 间距更学术、更紧凑（可按需微调） */
+#layout-menu{
+  padding-top: .4rem !important;
+}
+#layout-menu a{ 
+  display: block; 
+  padding: .18rem .2rem .18rem 0 !important; 
+  margin: 0 !important;
+}
+
+/* 小屏时不让侧栏压缩内容：侧栏在上，依然清爽 */
+@media (max-width: 780px){
+  #layout-menu{ 
+    border-right: none !important; 
+    border-bottom: 1px solid #f0f0f0 !important; 
+    padding-bottom: .3rem !important;
+  }
+  #layout-menu a{ padding: .16rem 0 !important; }
+}
+
+/* Limit text width on the main content area */
+#layout-content{
+    max-width: 800px;     /* 你可以换 760 / 900 看喜好 */
+    margin: 0 auto;       /* 居中 */
+}
+
+
+/*h1深色+没有下划线/*
+h1{
+    color:#222 !important;                     /* 深灰，不是纯黑 */
+    font-weight:700;                           /* 比 h2 稍重一点 */
+    border-bottom:1px solid #e0e0e0 !important;/* 与 h2 下划线统一 */
+    padding-bottom:.25rem !important;
+    margin-top:1.6rem !important;
+}
+
+ 
+
+#footer{
+    border-top:1px solid #f2f2f2 !important;
+}
+
+
+ 
