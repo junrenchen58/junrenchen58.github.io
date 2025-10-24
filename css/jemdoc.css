@@ -676,7 +676,7 @@ div#toptitle{
 
 /* Limit text width on the main content area */
 #layout-content{
-    max-width: 760px;     /* 你可以换 760 / 900 看喜好 */
+    max-width: 720px;     /* 你可以换 760 / 900 看喜好 */
     margin: 0 auto;       /* 居中 */
 }
 
@@ -694,6 +694,78 @@ h1{
 #footer{
     border-top:1px solid #f2f2f2 !important;
 }
+
+/* ==== Light Blue Background, No Frosted Glass (Overrides) ==== */
+
+/* 主题色（可自行微调） */
+:root{
+  --page-blue-bg: #F5F9FF;   /* 淡蓝页背景 */
+  --panel-white:   #FFFFFF;   /* 卡片白 */
+  --menu-blue:     #EEF4FF;   /* 侧栏淡蓝 */
+  --line-grey:     #E6EAF2;   /* 分隔线 */
+  --heading:       #222;      /* 深灰标题 */
+  --text:          #111;      /* 正文 */
+  --link:          #0B3D91;   /* 链接 */
+}
+
+/* 1) 去掉原先的多层渐变“磨砂背景”，换成纯淡蓝 */
+html, body{
+  background: var(--page-blue-bg) !important;
+  color: var(--text);
+}
+
+/* 2) 取消所有透明背景，把容器还原为白底卡片风格 */
+#tlayout,
+#tlayout td,
+#layout-content,
+#layout-menu,
+div#toptitle{
+  background: var(--panel-white) !important;
+}
+
+/* 3) 侧栏取消半透明与模糊，改为淡蓝实底 */
+#layout-menu{
+  background: var(--menu-blue) !important;
+  border-right: 1px solid var(--line-grey) !important;
+  /* 关键：禁用模糊与透明 */
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  box-shadow: none !important;
+}
+
+/* 4) 顶部标题栏与主内容的细分隔线（更轻） */
+div#toptitle{
+  border-bottom: 1px solid var(--line-grey) !important;
+}
+
+/* 5) 主内容区域最大宽度与白底卡片（可选） */
+#layout-content{
+  max-width: 700px;
+  margin: 0 auto;
+  background: var(--panel-white) !important;
+  /* 如不想有卡片感觉，注释掉这两行阴影与圆角 */
+  box-shadow: 0 0 18px rgba(0,0,0,0.04);
+  border-radius: 8px;
+  padding: 1.2rem 1.4rem;
+}
+
+/* 6) 标题与链接的对比度（在淡蓝背景上更清晰） */
+h1, h2, h3{
+  color: var(--heading) !important;
+  border-bottom: 1px solid var(--line-grey) !important;
+}
+a, a > tt{
+  color: var(--link) !important;
+  text-decoration: none;
+}
+a:hover{ text-decoration: underline; }
+
+/* 7) 移除你之前为“磨砂”加入的透明样式（再次兜底） */
+#layout-menu{
+  background: var(--menu-blue) !important;
+  opacity: 1 !important;
+}
+
 
 
  
