@@ -699,9 +699,9 @@ h1{
 
 /* 主题色（可自行微调） */
 :root{
-  --page-blue-bg: #F5F9FF;   /* 淡蓝页背景 */
-  --panel-white:   #FFFFFF;   /* 卡片白 */
-  --menu-blue:     #EEF4FF;   /* 侧栏淡蓝 */
+  --page-blue-bg: #EEF2F8;   /* 淡蓝页背景 */
+  --panel-white:   #EEF2F8;   /* 卡片白 */
+  --menu-blue:     #EEF2F8;   /* 侧栏淡蓝 */
   --line-grey:     #E6EAF2;   /* 分隔线 */
   --heading:       #222;      /* 深灰标题 */
   --text:          #111;      /* 正文 */
@@ -766,6 +766,86 @@ a:hover{ text-decoration: underline; }
   opacity: 1 !important;
 }
 
+
+/* ===== Unified soft grey-blue background ===== */
+:root{
+  --page-blue-bg: #EEF2F8;
+}
+
+html, body,
+#tlayout,
+#tlayout td,
+#layout-content,
+#layout-menu,
+div#toptitle{
+  background: var(--page-blue-bg) !important;
+}
+
+/* sidebar 边框保持非常淡 */
+#layout-menu{
+  border-right:1px solid #e6e6e6 !important;
+}
+
+/* footer 背景也统一掉 */
+#footer{
+  background: var(--page-blue-bg) !important;
+}
+
+
+/* ===== Base light blue background ===== */
+:root{
+  --page-bg: #EEF2F8;
+  --text: #222222;
+  --title: #1A2433;      /* 深一点用于标题 */
+  --link: #2B3A63;       /* 柔和墨蓝 */
+  --menu-text: #333333;  
+  --border-lite: #D9DEE7;
+}
+
+html, body,
+#tlayout,
+#tlayout td,
+#layout-content,
+#layout-menu,
+div#toptitle,
+#footer{
+  background: var(--page-bg) !important;
+  color: var(--text) !important;
+}
+
+/* ===== headings ===== */
+h1, h2, h3{
+  color: var(--title) !important;
+  border-bottom: 1px solid var(--border-lite) !important;
+}
+h3{ border-bottom:none !important; }
+
+/* ===== links ===== */
+#layout-content a{
+  color: var(--link) !important;
+  text-decoration: none;
+}
+#layout-content a:hover{
+  color: var(--title) !important;
+  text-decoration: underline;
+}
+
+/* ===== sidebar ===== */
+#layout-menu{
+  background: transparent !important;
+  border-right: 1px solid var(--border-lite) !important;
+}
+#layout-menu a{
+  color: var(--menu-text) !important;
+}
+#layout-menu a:hover{
+  color: var(--title) !important;
+  text-decoration: underline;
+}
+#layout-menu a.current{
+  color: var(--title) !important;
+  border-bottom: 1px solid var(--border-lite) !important;
+}
 
 
  
