@@ -847,5 +847,48 @@ h3{ border-bottom:none !important; }
   border-bottom: 1px solid var(--border-lite) !important;
 }
 
+/* ... 前面可能已有其他样式 ... */
+
+
+/* ===== 自己的最终覆盖区 (宽度)===== */
+table#tlayout {
+    max-width: 830px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#layout-content {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+#layout-menu {
+    font-size: 0.95em;
+    background: #f8f9fa;
+    border: none;
+}
+ a:hover {
+    opacity: 0.75;
+    transition: opacity .15s;
+}
+
+
+
+/* —— 去掉所有 h1 的下划线 —— */
+#layout-content h1,
+div#toptitle h1,
+h1 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;  /* 不要下划线时通常也不需要额外下内边距 */
+}
+
+/* 若仍希望 h2 保留细线，可显式保证 h2 有线 */
+#layout-content h2,
+h2 {
+  border-bottom: 1px solid var(--border-lite, #e0e0e0) !important;
+}
+
+/* —— 顶部标题栏下方的整条分隔线也去掉 —— */
+div#toptitle { border-bottom: none !important; }
+
 
  
