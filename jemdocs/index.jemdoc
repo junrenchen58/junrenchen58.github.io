@@ -30,7 +30,7 @@ I enjoy discussing ideas and developing potential collaborations in related area
  
 
  
-== Selected/Recent Papers {{[}}[https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar]{{]}}
+== Selected / Recent Papers {{[}}[https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar]{{]}}
 
  
 - *High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization.*  \n
@@ -64,7 +64,7 @@ with Improved Operator Norm Error Rate.*
 \n 
 Junren Chen, Ming Yuan. 
 \n 
-/Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2405.04733 arxiv],~[../files/1bpr.zip matlab]{{]}} 
+/Preprint/, Minor Revision at a Journal, 2024.~~{{[}}[https://arxiv.org/pdf/2405.04733 arxiv],~[https://github.com/junrenchen58/one-bit-phase-retrieval matlab]{{]}} 
 
  
 
@@ -82,8 +82,8 @@ Junren Chen, Ming Yuan.
 
 
 - *On Subsample Size of Quantile-Based Randomized Kaczmarz.*
-\n Jian-Feng Cai, Junren Chen, Anna Ma, Tong Wu. \n
-/Preprint/, 2025.~~{{[}}[https://arxiv.org/pdf/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab]{{]}}
+\n Jian-Feng Cai, Junren Chen, Anna Ma, Tong Wu. (α–β) \n
+/Preprint/, Minor Revision at a Journal, 2025.~~{{[}}[https://arxiv.org/pdf/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab]{{]}}
 
 
 - *Robust Instance Optimal Phase-Only Compressed Sensing.* 
