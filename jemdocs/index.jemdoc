@@ -86,12 +86,14 @@ Junren Chen, Ming Yuan.
 /Preprint/, Minor Revision at a Journal, 2025.~~{{[}}[https://arxiv.org/pdf/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab]{{]}}
 
 
-- *Robust Instance Optimal Phase-Only Compressed Sensing.* 
-\n Junren Chen, Michael K. Ng, Jonathan Scarlett. \n 
-/Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2408.06275v2 arxiv],~[../files/RIO-POCS.zip matlab]{{]}}
+#- *Robust Instance Optimal Phase-Only Compressed Sensing.* 
+#\n Junren Chen, Michael K. Ng, Jonathan Scarlett. \n 
+#/Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2408.06275v2 arxiv],~[../files/RIO-POCS.zip matlab]{{]}}
 
 
-
+- *Robust Mean Estimation under Quantization.* 
+\n Pedro Abdalla, Junren Chen. (α–β)\n 
+/Preprint/, to be posted. ~~{{[}}[https://github.com/junrenchen58/one-bit-mean matlab]{{]}}
 
 - *A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing.*
 \n Junren Chen, Jonathan Scarlett, Michael K. Ng, Zhaoqiang Liu. \n
