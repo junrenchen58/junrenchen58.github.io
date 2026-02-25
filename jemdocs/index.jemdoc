@@ -77,12 +77,12 @@ Junren Chen, Ming Yuan.
 
 - *On Subsample Size of Quantile-Based Randomized Kaczmarz.*
 \n Jian-Feng Cai, Junren Chen, Anna Ma, Tong Wu. (α–β) \n
-/Preprint/, Minor Revision at a Journal, 2025.~~{{[}}[https://arxiv.org/pdf/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab],~[../files/jmm2026.pdf slide]{{]}}
+/SIAM Journal on Matrix Analysis and Applications/ (accepted), 2026+.~~{{[}}[https://arxiv.org/pdf/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab],~[../files/jmm2026.pdf slide]{{]}}
 
 
-#- *Robust Instance Optimal Phase-Only Compressed Sensing.* 
-#\n Junren Chen, Michael K. Ng, Jonathan Scarlett. \n 
-#/Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2408.06275v2 arxiv],~[../files/RIO-POCS.zip matlab]{{]}}
+- *Robust Instance Optimal Phase-Only Compressed Sensing.* 
+\n Junren Chen, Michael K. Ng, Jonathan Scarlett. \n 
+/Preprint/, Revision at a Journal, 2024.~~{{[}}[https://arxiv.org/pdf/2408.06275 arxiv],~[https://github.com/junrenchen58/instance-optimal-pocs matlab]{{]}}
 
 
 - *Robust Mean Estimation under Quantization.* 
