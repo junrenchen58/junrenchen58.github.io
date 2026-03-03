@@ -58,7 +58,7 @@ with Improved Operator Norm Error Rate.*
 \n 
 Junren Chen, Ming Yuan. 
 \n 
-/Preprint/, Minor Revision at a Journal, 2024.~~{{[}}[https://arxiv.org/pdf/2405.04733 arxiv],~[https://github.com/junrenchen58/one-bit-phase-retrieval matlab]{{]}} 
+/Preprint/, Minor Revision at a Journal, 2024.~~{{[}}[https://arxiv.org/pdf/2405.04733 arxiv],~[https://github.com/junrenchen58/one-bit-phase-retrieval matlab],~[../files/1bpr-slide.pdf slide]{{]}} 
 
  
 
@@ -88,6 +88,7 @@ Junren Chen, Ming Yuan.
 - *Robust Mean Estimation under Quantization.* 
 \n Pedro Abdalla, Junren Chen. (α–β)\n 
 /Preprint/, 2026. ~~{{[}}[https://arxiv.org/pdf/2601.07074 arxiv],~[https://github.com/junrenchen58/one-bit-mean matlab]{{]}}
+
 
 - *A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing.*
 \n Junren Chen, Jonathan Scarlett, Michael K. Ng, Zhaoqiang Liu. \n
