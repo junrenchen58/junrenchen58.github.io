@@ -23,25 +23,39 @@ I am a postdoc interested in high-dimensional problems in nonconvex optimization
 \n 
 Junren Chen, Jonathan Scarlett. 
 \n /ACM-SIAM Symposium on Discrete Algorithms/ (SODA), 2025.~~{{[}}[https://arxiv.org/pdf/2401.04884 arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 soda],~[../files/soda25-grouptesting.pdf slide]{{]}} 
- 
- - *Phase Retrieval of Quaternion Signal via Wirtinger Flow.*  
-\n Junren Chen, Michael K. Ng. \n
-/IEEE Transactions on Signal Processing/, 2023.~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 tsp],~[../files/quaternion-PR.zip matlab]{{]}} 
 
+
+- *One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.* 
+\n 
+Junren Chen, Ming Yuan. 
+\n 
+/IEEE Transactions on Information Theory/ (accepted), 2026.~~{{[}}[https://arxiv.org/pdf/2405.04733 arxiv],~[https://github.com/junrenchen58/one-bit-phase-retrieval matlab],~[../files/1bpr-slide.pdf slide]{{]}} 
+ 
+
+ 
 - *A Parameter-Free Two-Bit Covariance Estimator
 with Improved Operator Norm Error Rate.* 
 \n Junren Chen, Michael K. Ng. \n
 /Applied and Computational Harmonic Analysis/, 2025.~~{{[}}[https://arxiv.org/pdf/2308.16059v2 arxiv],~[https://www.sciencedirect.com/science/article/pii/S1063520325000284?dgcid=author acha],~[../files/2-bit-covariance.zip matlab]{{]}}
 
-
 - *On Subsample Size of Quantile-Based Randomized Kaczmarz.*
 \n Jian-Feng Cai, Junren Chen, Anna Ma, Tong Wu. (α–β) \n
-/SIAM Journal on Matrix Analysis and Applications/ (accepted), 2026+.~~{{[}}[https://arxiv.org/pdf/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab],~[../files/jmm2026.pdf slide]{{]}}
+/SIAM Journal on Matrix Analysis and Applications/ (accepted), 2026.~~{{[}}[https://arxiv.org/pdf/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab],~[../files/jmm2026.pdf slide]{{]}}
+
+
+
+ - *Phase Retrieval of Quaternion Signal via Wirtinger Flow.*  
+\n Junren Chen, Michael K. Ng. \n
+/IEEE Transactions on Signal Processing/, 2023.~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 tsp],~[../files/quaternion-PR.zip matlab]{{]}} 
+ 
+
+
+ 
 
 
 - *Robust Instance Optimal Phase-Only Compressed Sensing.* 
 \n Junren Chen, Michael K. Ng, Jonathan Scarlett. \n 
-/Information and Inference: A Journal of the IMA/ (accepted), 2026+.~~{{[}}[https://arxiv.org/pdf/2408.06275 arxiv],~[https://github.com/junrenchen58/instance-optimal-pocs matlab]{{]}}
+/Information and Inference: A Journal of the IMA/ (accepted), 2026.~~{{[}}[https://arxiv.org/pdf/2408.06275 arxiv],~[https://github.com/junrenchen58/instance-optimal-pocs matlab]{{]}}
  
 
 
@@ -58,12 +72,7 @@ with Improved Operator Norm Error Rate.*
 - *A Unified Approach to Statistical Estimation Under Nonlinear Observations: Tensor Estimation and Matrix Factorization.* \n
 Junren Chen, Lijun Ding, Dong Xia, Ming Yuan.
 \n /Preprint/, 2025. ~~{{[}}[https://arxiv.org/pdf/2510.16965 arxiv],~[https://github.com/junrenchen58/Tensor-estimation-matrix-factorization matlab]{{]}}
-
-- *One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.* 
-\n 
-Junren Chen, Ming Yuan. 
-\n 
-/Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2405.04733 arxiv],~[https://github.com/junrenchen58/one-bit-phase-retrieval matlab],~[../files/1bpr-slide.pdf slide]{{]}} 
+ 
 
 
 - *Robust Uniform Recovery of Structured Signals from Nonlinear
@@ -76,14 +85,16 @@ Observations.*
 \n Pedro Abdalla, Junren Chen. (α–β)\n 
 /Preprint/, 2026. ~~{{[}}[https://arxiv.org/pdf/2601.07074 arxiv],~[https://github.com/junrenchen58/one-bit-mean matlab]{{]}}
 
-
-- *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* \n Junren Chen, Ming Yuan. \n 
+ 
+ - *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* \n Junren Chen, Ming Yuan. \n 
 /Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2407.04951 arxiv],~[../files/optimal_qcs.zip matlab]{{]}}
- 
+
+###- *One-Bit Clustering for Two Component Sub-Gaussian Mixture Models.* \n Junren Chen, Yun Yang. \n ###/Preprint/, 2026. 
 
 
- 
+###- *Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design.* \n Junren Chen, Arya Mazumdar. \n  ###/Preprint/, 2026. 
 
+###- *Iterative Hard Thresholding is Instance Optimal for Sparse Recovery from Phaseless, One-Bit, ReLU,  and Phase-Only Measurements.* \n Junren Chen, Arian Maleki. \n  /Preprint/, 2026.
  
 
 
