@@ -87,10 +87,12 @@ Observations.*
  - *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* \n Junren Chen, Ming Yuan. \n 
 /Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2407.04951 arxiv],~[../files/optimal_qcs.zip matlab]{{]}}
 
-###- *One-Bit Clustering for Two Component Sub-Gaussian Mixture Models.* \n Junren Chen, Yun Yang. \n ###/Preprint/, 2026. 
+- *One-Bit Clustering for Two Component Sub-Gaussian Mixture Models.* \n Junren Chen, Yun Yang. \n /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2606.21873 arxiv]{{]}}
+ 
 
 
-###- *Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design.* \n Junren Chen, Arya Mazumdar. \n  ###/Preprint/, 2026. 
+- *Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design.* \n Junren Chen, Arya Mazumdar. \n  /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2606.21683 arxiv]{{]}}
+
 
 ###- *Iterative Hard Thresholding is Instance Optimal for Sparse Recovery from Phaseless, One-Bit, ReLU,  and Phase-Only Measurements.* \n Junren Chen, Arian Maleki. \n  /Preprint/, 2026.
  
