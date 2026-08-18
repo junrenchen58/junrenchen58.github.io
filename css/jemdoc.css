@@ -740,7 +740,7 @@ div#toptitle{
 
 /* 5) 主内容区域最大宽度与白底卡片（可选） */
 #layout-content{
-  max-width: 700px;
+  max-width: 1100px;
   margin: 0 auto;
   background: var(--panel-white) !important;
   /* 如不想有卡片感觉，注释掉这两行阴影与圆角 */
@@ -852,7 +852,7 @@ h3{ border-bottom:none !important; }
 
 /* ===== 自己的最终覆盖区 (宽度)===== */
 table#tlayout {
-    max-width: 830px;
+    max-width: 1300px;
     width: 100%;
     margin: 0 auto;
 }
@@ -890,5 +890,271 @@ h2 {
 /* —— 顶部标题栏下方的整条分隔线也去掉 —— */
 div#toptitle { border-bottom: none !important; }
 
+/* Full-width line below the top title area */
+div#toptitle {
+    border-bottom: 1px solid var(--border-lite, #d9dee7) !important;
+    padding-bottom: 0.4rem !important;
+    margin-bottom: 1.2rem !important;
+}
 
+div#toptitle h1 {
+    border-bottom: none !important;
+}
+
+/* ===== Remove indentation for publication lists ===== */
+
+#layout-content ul:has(
+  li a[href*="arxiv.org"],
+  li a[href*="doi.org"],
+  li a[href*="ieeexplore.ieee.org"],
+  li a[href*="acm.org"],
+  li a[href*="springer"],
+  li a[href*="sciencedirect.com"]
+) {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+/* 取消默认 bullet，换成悬挂在正文左侧的 bullet */
+#layout-content ul:has(
+  li a[href*="arxiv.org"],
+  li a[href*="doi.org"],
+  li a[href*="ieeexplore.ieee.org"],
+  li a[href*="acm.org"],
+  li a[href*="springer"],
+  li a[href*="sciencedirect.com"]
+) > li {
+    list-style: none !important;
+    position: relative;
+}
+
+/* 让论文标题与正文左边缘对齐，bullet 放在外侧 */
+#layout-content ul:has(
+  li a[href*="arxiv.org"],
+  li a[href*="doi.org"],
+  li a[href*="ieeexplore.ieee.org"],
+  li a[href*="acm.org"],
+  li a[href*="springer"],
+  li a[href*="sciencedirect.com"]
+) > li::before {
+    content: "▪";
+    position: absolute;
+    left: -1.05em;
+    top: 0;
+}
+
+/* ===== Stronger section dividers ===== */
+
+#layout-content h1,
+#layout-content h2,
+div#toptitle {
+    border-color: #B8C0CC !important;
+}
+
+/* Research-topic headings */
+#layout-content h3 {
+    color: #496A68 !important;
+    font-weight: 600 !important;
+}
+
+/* ===== Page-title double divider ===== */
+div#toptitle {
+    border-bottom: 3px double #9FA9B8 !important;
+    padding-bottom: 0.55rem !important;
+    margin-bottom: 1.25rem !important;
+}
+
+div#toptitle h1 {
+    border-bottom: none !important;
+}
+
+/* ===== Research-topic headings ===== */
+#layout-content h3 {
+    color: #74575B !important;
+    font-weight: 600 !important;
+    display: table;
+    border-bottom: 1px solid #B58C92 !important;
+    padding-bottom: 0.18rem !important;
+    margin-top: 1.15rem !important;
+    margin-bottom: 0.55rem !important;
+}
+
+
+/* h1: slightly softer double line */
+div#toptitle {
+    border-bottom: 3px double #AAB3C0 !important;
+}
+
+/* h2: stronger single line with more breathing room */
+#layout-content h2 {
+    border-bottom: 1px solid #929EAE !important;
+    padding-bottom: 0.42rem !important;
+    margin-bottom: 0.72rem !important;
+}
+
+
+/* ===== Final background color ===== */
+html,
+body,
+#tlayout,
+#tlayout td,
+#layout-content,
+#layout-menu,
+div#toptitle,
+#footer {
+    background: #faf9f6 !important;
+}
+ /* ==================================================
+   Final typography: serif body + sans-serif headings (the following changes font style)
+   ================================================== */
+
+/* 正文：偏传统、适合学术主页的 serif */
+body,
+#layout-content {
+    font-family: Georgia, "Times New Roman", Times, serif !important;
+    font-size: 16px;
+    line-height: 1.58;
+    letter-spacing: 0;
+}
+
+/* 普通正文与列表 */
+#layout-content p,
+#layout-content li,
+#layout-content dd {
+    line-height: 1.58 !important;
+}
+
+/* 姓名、章节标题、research topics：现代 sans-serif */
+h1,
+h2,
+h3,
+div#toptitle,
+div#subtitle {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                 "Noto Sans", "Helvetica Neue", Arial, sans-serif !important;
+    letter-spacing: -0.01em;
+}
+
+/* 左侧菜单使用 sans-serif */
+#layout-menu,
+#layout-menu a,
+div.menu-category,
+div.menu-item {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                 "Noto Sans", "Helvetica Neue", Arial, sans-serif !important;
+}
+
+/* 姓名 */
+div#toptitle h1 {
+    font-size: 2rem !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.025em;
+}
+
+/* 一级章节，例如 Research / Selected Papers */
+#layout-content h2 {
+    font-size: 1.35rem !important;
+    font-weight: 650 !important;
+    letter-spacing: -0.015em;
+}
+
+/* Research topic 小标题 */
+#layout-content h3 {
+    font-size: 1.06rem !important;
+    font-weight: 650 !important;
+    letter-spacing: 0;
+}
+
+/* 论文标题：保留 serif，与正文协调，但稍微突出 */
+#layout-content li em {
+    font-family: Georgia, "Times New Roman", Times, serif !important;
+    font-weight: 600;
+    line-height: 1.45;
+}
+
+/* 链接继承正文 serif；左侧菜单不受影响 */
+#layout-content a {
+    font-family: inherit;
+}
+
+/* Email、Address 等加粗标签稍微清晰一些 */
+#layout-content strong {
+    font-weight: 600;
+}
+
+/* 手机端稍微缩小正文，避免 serif 显得拥挤 */
+@media (max-width: 780px) {
+    body,
+    #layout-content {
+        font-size: 15.5px;
+        line-height: 1.55;
+    }
+
+    div#toptitle h1 {
+        font-size: 1.8rem !important;
+    }
+}
+/* ===== Unified serif typography ===== */
+
+body,
+#layout-content,
+div#toptitle h1,
+#layout-content h2,
+#layout-content h3 {
+    font-family: Georgia, "Times New Roman", Times, serif !important;
+}
+
+div#toptitle h1 {
+    font-weight: 700 !important;
+    letter-spacing: -0.015em !important;
+}
+
+#layout-content h2,
+#layout-content h3 {
+    font-weight: 600 !important;
+    letter-spacing: 0 !important;
+}
+
+#layout-content h3 {
+    color: #536D69 !important;
+    font-weight: 600 !important;
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+    display: block !important;
+}
+
+
+/* ===== Final fix: publication indentation for GitHub / local files / PDFs ===== */
+
+/* Recognize publication lists that only contain GitHub or local-file links */
+#layout-content ul:has(
+  li a[href*="github.com"],
+  li a[href*="../files/"],
+  li a[href$=".pdf"]
+) {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+/* Remove default list bullet */
+#layout-content ul:has(
+  li a[href*="github.com"],
+  li a[href*="../files/"],
+  li a[href$=".pdf"]
+) > li {
+    list-style: none !important;
+    position: relative;
+}
+
+/* Add the same hanging bullet as your other publications */
+#layout-content ul:has(
+  li a[href*="github.com"],
+  li a[href*="../files/"],
+  li a[href$=".pdf"]
+) > li::before {
+    content: "▪";
+    position: absolute;
+    left: -1.05em;
+    top: 0;
+}
  

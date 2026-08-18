@@ -1,31 +1,66 @@
 # jemdoc: nofooter
-# jemdoc: menu{MENU}{biography.html}   
+# jemdoc: menu{MENU}{bio.html}   
 == Biography
 
 == Employment
-- *Novikov Postdoc, Department of Mathematics, University of Maryland, College Park* (Present)
-#-- Hosts: Profs. [https://sites.google.com/site/yunyangstat/ Yun Yang], [https://math.umd.edu/~rvbalan/ Radu Balan]
+- *Founder’s Postdoc Fellow, Department of Statistics, Columbia University* (2026 Jul - Present)
+
+- *Novikov Postdoc Fellow, Department of Mathematics, University of Maryland, College Park* (2025 Sep - 2026 Jun)
+ 
 
 == Education
-- *PhD, Department of Mathematics, The University of Hong Kong*  
+- *PhD, Department of Mathematics, The University of Hong Kong* (2021 Sep - 2025 Aug)  
 -- Advisor: Prof. [https://sites.google.com/view/michael-ng-math/home Michael K. Ng] 
-- *BSc, School of Mathematics, Sun Yat-sen University*  
+- *BSc, School of Mathematics, Sun Yat-sen University* (2017 Sep - 2021 Jun) 
 
-#== Visiting Positions
-#- *Department of Mathematics, University of California, Irvine* (Feb 2025 - Apr 2025)
-#-- Host: Prof. [https://www.math.uci.edu/~rvershyn/ Roman Vershynin]
-#- *Department of Statistics, Columbia University* (Jan 2024 - Jul 2024)
-#-- Host: Prof. [https://www.columbia.edu/~my2550/ Ming Yuan]
-#- *Department of Computer Science, National University of Singapore* (Jun 2023 - Sep 2023)
-#-- Host: Prof. [https://www.comp.nus.edu.sg/~scarlett/ Jonathan Scarlett]
+== Visiting Experiences 
+- *Halıcıoğlu Data Science Institute, UC San Diego* (2026 Summer)
+-- Host: Prof. [https://mazumdar.ucsd.edu/ Arya Mazumdar]
+- *Department of Mathematics, UC Irvine* (Feb 2025 - Apr 2025)
+-- Host: Prof. [https://www.math.uci.edu/~rvershyn/ Roman Vershynin]
+- *Department of Statistics, Columbia University* (Jan 2024 - Jul 2024)
+-- Host: Prof. [https://www.columbia.edu/~my2550/ Ming Yuan]
+- *Department of Computer Science, National University of Singapore* (Jun 2023 - Aug 2023)
+-- Host: Prof. [https://www.comp.nus.edu.sg/~scarlett/ Jonathan Scarlett]
 
-#== Teaching 
-#- MATH1009 - Basic Mathematics for Business and Economics (2022 Fall, 2023 Fall)
+== Invited Talks
+ 
+- Joint Mathematics Meetings (JMM) 2027, Chicago, IL, U.S., Jan 2027
+- SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, Utah, U.S., Nov 2026
+- SIAM Conference on Imaging Science (IS26), Salt Lake City, Utah, U.S., Nov 2026
+- CUNY GC Harmonic Analysis and PDE, New York, U.S., Sep 2026
+- SIAM Annual Meeting (AN26), Cleveland, Ohio, U.S., July 2026
+- EnCORE Seminar, Halıcıoğlu Data Science Institute, UC San Diego, May 2026
+- Research Colloquium, Dept. of Math, Hong Kong Baptist University, Mar 2026
+- Statistics Seminar, Dept. of Math, University of Maryland, College Park, Mar 2026 
+- AMS Postdoc Seminar, Johns Hopkins University, Mar 2026
+- Joint Mathematics Meetings (JMM) 2026, Washington, D.C., Jan 2026
+- IEEE International Symposium on Information Theory
+ (ISIT) 2025, University of Michigan, Jun 2025
+- CCoM–MINDS Seminar, Department of Mathematics, UC San Diego, Apr 2025 
+- Combinatorics and Probability Seminar, Department of Mathematics, UC Irvine, Mar 2025 
+- ACM-SIAM Symposium on Discrete Algorithms (SODA) 2025, New Orleans, Jan 2025 
 
-#- MATH2014 - Multivariable Calculus and Linear Algebra (2022 Spring, 2023 Spring, 2024 Spring)
+== Teaching 
 
-#- MATH3904 - Introduction to Optimization (2024 Fall)
 
-#== Reviewer
+=== Instructor @Columbia
 
-#TIT, ACHA, TSP, JSC, IEEE SPL, NeurIPS, ISIT
+- TBA (2027 Spring)
+
+=== Instructor @UMD
+
+- MATH141H - Calculus II (2026 Spring, 2 Sections)
+
+=== Teaching Assistant @HKU
+- MATH1009 - Basic Mathematics for Business and Economics (2022 Fall, 2023 Fall)
+
+- MATH2014 - Multivariable Calculus and Linear Algebra (2022 Spring, 2023 Spring, 2024 Spring)
+
+- MATH3904 - Introduction to Optimization (2024 Fall)
+
+
+
+== Reviewer
+
+AoS, IEEE TIT, ACHA, Information and Inference, IEEE TSP, Journal of Scientific Computing, NeurIPS (2025, 2026), ISIT (2025)

@@ -1,105 +1,53 @@
 # jemdoc: nofooter
 # jemdoc: menu{MENU}{index.html}  
-=Junren Chen  
+=Junren Chen
+
+~~~
+{}{img_left}{imgs/cujuly13.png}{Junren Chen}{271}{362}{}
+Founder’s Postdoc \n
+[https://stat.columbia.edu/ Department of Statistics]\n
+[https://www.columbia.edu/ Columbia University]\n
+\n
+*Contact*: ~[mailto:jc6315@columbia.edu jc6315@columbia.edu]\n
+*Address*: 1255 Amsterdam Avenue, New York
+\n\n
+Hi there - welcome to my homepage! I am currently a Founder’s Postdoc at Department of Statistics, Columbia University. I have broad research interests in high-dimensional statistics, nonconvex optimization, mathematics of data, signal processing, machine learning, randomized algorithms, and related areas. 
+
+Previously, I was a Novikov Postdoc in Mathematics at University of Maryland, College Park. Even before that, I received my PhD in Applied and Computational Mathematics from the University of Hong Kong, and got my BSc in Mathematics from Sun Yat-sen University. 
+~~~
 
 
-I am a postdoc interested in high-dimensional problems in nonconvex optimization, signal processing, data science, and machine learning. 
- 
-
- 
-== Selected Work
-
-=== Publications
-
-- *High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization.*  \n
-  Junren Chen, Cheng-Long Wang, Michael K. Ng, Di Wang. 
-\n /IEEE Transactions on Information Theory/, 2023.~~{{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 tit],~[https://arxiv.org/pdf/2202.13157 arxiv]{{]}}
- 
-
- 
-- *Exact Thresholds for Noisy Non-Adaptive Group Testing.*  
-\n 
-Junren Chen, Jonathan Scarlett. 
-\n /ACM-SIAM Symposium on Discrete Algorithms/ (SODA), 2025.~~{{[}}[https://arxiv.org/pdf/2401.04884 arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 soda],~[../files/soda25-grouptesting.pdf slide]{{]}} 
-
-
-- *One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.* 
-\n 
-Junren Chen, Ming Yuan. 
-\n 
-/IEEE Transactions on Information Theory/, 2026.~~{{[}}[https://ieeexplore.ieee.org/document/11516279 tit],~[https://arxiv.org/pdf/2405.04733 arxiv],~[https://github.com/junrenchen58/one-bit-phase-retrieval matlab],~[../files/1bpr-slide.pdf slide]{{]}} 
- 
-
- 
-- *A Parameter-Free Two-Bit Covariance Estimator
-with Improved Operator Norm Error Rate.* 
-\n Junren Chen, Michael K. Ng. \n
-/Applied and Computational Harmonic Analysis/, 2025.~~{{[}}[https://arxiv.org/pdf/2308.16059v2 arxiv],~[https://www.sciencedirect.com/science/article/pii/S1063520325000284?dgcid=author acha],~[../files/2-bit-covariance.zip matlab]{{]}}
-
-- *On Subsample Size of Quantile-Based Randomized Kaczmarz.*
-\n Jian-Feng Cai, Junren Chen, Anna Ma, Tong Wu. (α–β) \n
-/SIAM Journal on Matrix Analysis and Applications/, 2026.~~{{[}}[https://epubs.siam.org/doi/10.1137/25M1785678 simax],~[https://arxiv.org/pdf/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab],~[../files/jmm2026.pdf slide]{{]}}
-
-
-
- - *Phase Retrieval of Quaternion Signal via Wirtinger Flow.*  
-\n Junren Chen, Michael K. Ng. \n
-/IEEE Transactions on Signal Processing/, 2023.~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 tsp],~[../files/quaternion-PR.zip matlab]{{]}} 
  
 
 
  
 
 
-- *Robust Instance Optimal Phase-Only Compressed Sensing.* 
-\n Junren Chen, Michael K. Ng, Jonathan Scarlett. \n 
-/Information and Inference: A Journal of the IMA/, 2026.~~{{[}}[https://academic.oup.com/imaiai/article-abstract/15/2/iaag014/8698132?redirectedFrom=fulltext iai],~[https://arxiv.org/pdf/2408.06275 arxiv],~[https://github.com/junrenchen58/instance-optimal-pocs matlab]{{]}}
- 
 
 
-- *A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing.*
-\n Junren Chen, Jonathan Scarlett, Michael K. Ng, Zhaoqiang Liu. \n
-/Conference on Neural Information Processing Systems/ (NeurIPS), 2023.~~{{[}}[https://proceedings.neurips.cc/paper_files/paper/2023/file/1a04df6a405210aab4986994b873db9b-Paper-Conference.pdf neurips], [https://arxiv.org/pdf/2310.03758 arxiv]{{]}}
  
 
  
 
 
-=== Preprints
-
-- *A Unified Approach to Statistical Estimation Under Nonlinear Observations: Tensor Estimation and Matrix Factorization.* \n
-Junren Chen, Lijun Ding, Dong Xia, Ming Yuan.
-\n /Preprint/, 2025. ~~{{[}}[https://arxiv.org/pdf/2510.16965 arxiv],~[https://github.com/junrenchen58/Tensor-estimation-matrix-factorization matlab]{{]}}
  
 
 
-- *Robust Uniform Recovery of Structured Signals from Nonlinear
-Observations.*
-\n Pedro Abdalla, Radu Balan, Junren Chen. (α–β)\n
- /Preprint/, 2026. ~~{{[}}[https://arxiv.org/pdf/2604.20075 arxiv]{{]}}
 
-
-- *Robust Mean Estimation under Quantization.* 
-\n Pedro Abdalla, Junren Chen. (α–β)\n 
-/Preprint/, 2026. ~~{{[}}[https://arxiv.org/pdf/2601.07074 arxiv],~[https://github.com/junrenchen58/one-bit-mean matlab]{{]}}
 
  
- - *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* \n Junren Chen, Ming Yuan. \n 
-/Preprint/, 2024.~~{{[}}[https://arxiv.org/pdf/2407.04951 arxiv],~[../files/optimal_qcs.zip matlab]{{]}}
-
-- *One-Bit Clustering for Two Component Sub-Gaussian Mixture Models.* \n Junren Chen, Yun Yang. \n /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2606.21873 arxiv]{{]}}
- 
-
-
-- *Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design.* \n Junren Chen, Arya Mazumdar. \n  /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2606.21683 arxiv]{{]}}
-
-
-###- *Iterative Hard Thresholding is Instance Optimal for Sparse Recovery from Phaseless, One-Bit, ReLU,  and Phase-Only Measurements.* \n Junren Chen, Arian Maleki. \n  /Preprint/, 2026.
  
 
 
  
 
+
+
+
+ 
+
+
+  
 
 
  
