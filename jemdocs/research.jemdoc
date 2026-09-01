@@ -17,7 +17,12 @@ See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar
 
 - *Low-Rank Tensor Estimation from Nonlinear Observations: A Unified Framework.* 
 \n Junren Chen, Lijun Ding, Dong Xia, Ming Yuan. 
-\n /Preprint/, 2026. ~~{{[}}arxiv,~[https://github.com/junrenchen58/Nonlinear-tensor-regression matlab]{{]}}
+\n /Preprint/, 2026. ~~{{[}}[https://arxiv.org/abs/2510.16965 arxiv],~[https://github.com/junrenchen58/Nonlinear-tensor-regression matlab]{{]}}
+
+
+- *Instance Optimal Sparse Recovery from Nonlinear Observations: A Unified Framework.* 
+\n Junren Chen, Arian Maleki. 
+\n /Preprint/, 2026. ~~{{[}}[paper],~[../files/iop-supp.pdf supp]{{]}}
 
 
 - *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* \n Junren Chen, Ming Yuan. \n 
@@ -88,7 +93,7 @@ Junren Chen, Arya Mazumdar.
 /SIAM Journal on Matrix Analysis and Applications/, 2026.~~{{[}}[https://epubs.siam.org/doi/10.1137/25M1785678 simax],~[https://arxiv.org/abs/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab],~[../files/jmm2026.pdf slide]{{]}}
 
 
-- *Quantile Randomized Kaczmarz for Streaming  Linear Systems with Massart Noise.* \n Emeric Battaglia, Jian-Feng Cai, Junren Chen, Anna Ma, Deanna Needell, Tong Wu. (α–β) \n  /Preprint/, 2026.~~{{[}}arxiv,~[https://github.com/wtree101/Explicit-beta-and-D-for-QRK code]{{]}}
+- *Quantile Randomized Kaczmarz for Streaming  Linear Systems with Massart Noise.* \n Emeric Battaglia, Jian-Feng Cai, Junren Chen, Anna Ma, Deanna Needell, Tong Wu. (α–β) \n  /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2608.27968 arxiv],~[https://github.com/wtree101/Explicit-beta-and-D-for-QRK code]{{]}}
 
 
 
