@@ -31,13 +31,13 @@ See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar
 
 
 
-- *Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design.* \n Junren Chen, Arya Mazumdar. \n  /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2606.21683 arxiv]{{]}}
+- *Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design.* \n Junren Chen, Arya Mazumdar. \n  /Advances in Neural Information Processing Systems/ (NeurIPS), 2026.~~{{[}}[https://arxiv.org/abs/2606.21683 arxiv]{{]}}
 
 
 
 
 
-=== 1-Bit Estimation and Learning
+=== One-Bit Quantization
 
 - *High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization.*  \n
   Junren Chen, Cheng-Long Wang, Michael K. Ng, Di Wang. 
@@ -59,7 +59,7 @@ Junren Chen, Ming Yuan.
 /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2601.07074 arxiv],~[https://github.com/junrenchen58/one-bit-mean matlab]{{]}}
 
  
-- *One-Bit Clustering for Two Component Sub-Gaussian Mixture Models.* \n Junren Chen, Yun Yang. \n /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2606.21873 arxiv]{{]}}
+- *One-Bit Clustering for Two Component Sub-Gaussian Mixture Models.* \n Junren Chen, Yun Yang. \n /Advances in Neural Information Processing Systems/ (NeurIPS), 2026.~~{{[}}[https://arxiv.org/abs/2606.21873 arxiv]{{]}}
 
 
 
@@ -81,7 +81,7 @@ Junren Chen, Jonathan Scarlett.
 - *Minimax Optimal Estimator and Improved Error Rate for the MLE in Logistic Regression with Gaussian Design.* \n 
 Junren Chen, Arya Mazumdar.  
 \n  
-/Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2608.17260 arxiv],~[https://github.com/junrenchen58/logistic-regression-mle-and-minimax matlab]{{]}}
+/Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2608.17260 arxiv],~[https://github.com/junrenchen58/logistic-regression-mle-and-minimax matlab],~[../files/gaussian-logistic.pdf slide]{{]}}
 
 
 
@@ -96,26 +96,5 @@ Junren Chen, Arya Mazumdar.
 - *Quantile Randomized Kaczmarz for Streaming  Linear Systems with Massart Noise.* \n Emeric Battaglia, Jian-Feng Cai, Junren Chen, Anna Ma, Deanna Needell, Tong Wu. (α–β) \n  /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2608.27968 arxiv],~[https://github.com/wtree101/Explicit-beta-and-D-for-QRK code]{{]}}
 
 
-
-
-#=== Others
-
  
-
-#- *Phase Retrieval of Quaternion Signal via Wirtinger Flow.*  \n Junren Chen, Michael K. Ng. \n/IEEE Transactions on Signal Processing/, 2023.~~{{[}}[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10210064 tsp],~[../files/quaternion-PR.zip matlab]{{]}} 
- 
-
-
- 
-
- 
-
-
-#- *A Unified Framework for Uniform Signal Recovery in Nonlinear Generative Compressed Sensing.* \n Junren Chen, Jonathan Scarlett, Michael K. Ng, Zhaoqiang Liu. \n /Conference on Neural Information Processing Systems/ (NeurIPS), 2023.~~{{[}}[https://proceedings.neurips.cc/paper_files/paper/2023/file/1a04df6a405210aab4986994b873db9b-Paper-Conference.pdf neurips], [https://arxiv.org/abs/2310.03758 arxiv]{{]}}
-
-
-
- 
-
-#- *Robust Uniform Recovery of Structured Signals from Nonlinear Observations.* \n Pedro Abdalla, Radu Balan, Junren Chen. (α–β)\n /Preprint/, 2026. ~~{{[}}[https://arxiv.org/abs/2604.20075 arxiv]{{]}} #- *Iterative Hard Thresholding is Instance Optimal for Sparse Recovery from Phaseless, One-Bit and ReLU Measurements.* \n Junren Chen, Arian Maleki. \n  /Preprint/, 2026.
 
