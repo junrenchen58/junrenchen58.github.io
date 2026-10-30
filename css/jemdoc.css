@@ -485,6 +485,7 @@ h3{
 #layout-content ul,
 #layout-content ol{
   margin: .35rem 0 .70rem !important;
+  padding-left: 2.5em;  /* Standard indentation for News, papers, and other lists. */
 }
 #layout-content li{
   margin: .30rem 0 .45rem !important;
@@ -901,48 +902,6 @@ div#toptitle h1 {
     border-bottom: none !important;
 }
 
-/* ===== Remove indentation for publication lists ===== */
-
-#layout-content ul:has(
-  li a[href*="arxiv.org"],
-  li a[href*="doi.org"],
-  li a[href*="ieeexplore.ieee.org"],
-  li a[href*="acm.org"],
-  li a[href*="springer"],
-  li a[href*="sciencedirect.com"]
-) {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
-}
-
-/* 取消默认 bullet，换成悬挂在正文左侧的 bullet */
-#layout-content ul:has(
-  li a[href*="arxiv.org"],
-  li a[href*="doi.org"],
-  li a[href*="ieeexplore.ieee.org"],
-  li a[href*="acm.org"],
-  li a[href*="springer"],
-  li a[href*="sciencedirect.com"]
-) > li {
-    list-style: none !important;
-    position: relative;
-}
-
-/* 让论文标题与正文左边缘对齐，bullet 放在外侧 */
-#layout-content ul:has(
-  li a[href*="arxiv.org"],
-  li a[href*="doi.org"],
-  li a[href*="ieeexplore.ieee.org"],
-  li a[href*="acm.org"],
-  li a[href*="springer"],
-  li a[href*="sciencedirect.com"]
-) > li::before {
-    content: "▪";
-    position: absolute;
-    left: -1.05em;
-    top: 0;
-}
-
 /* ===== Stronger section dividers ===== */
 
 #layout-content h1,
@@ -1122,39 +1081,3 @@ div#toptitle h1 {
     padding-bottom: 0 !important;
     display: block !important;
 }
-
-
-/* ===== Final fix: publication indentation for GitHub / local files / PDFs ===== */
-
-/* Recognize publication lists that only contain GitHub or local-file links */
-#layout-content ul:has(
-  li a[href*="github.com"],
-  li a[href*="../files/"],
-  li a[href$=".pdf"]
-) {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
-}
-
-/* Remove default list bullet */
-#layout-content ul:has(
-  li a[href*="github.com"],
-  li a[href*="../files/"],
-  li a[href$=".pdf"]
-) > li {
-    list-style: none !important;
-    position: relative;
-}
-
-/* Add the same hanging bullet as your other publications */
-#layout-content ul:has(
-  li a[href*="github.com"],
-  li a[href*="../files/"],
-  li a[href$=".pdf"]
-) > li::before {
-    content: "▪";
-    position: absolute;
-    left: -1.05em;
-    top: 0;
-}
- 
