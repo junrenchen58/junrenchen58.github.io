@@ -17,21 +17,24 @@ See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar
 
 - *Low-Rank Tensor Estimation from Nonlinear Observations: A Unified Framework.* 
 \n Junren Chen, Lijun Ding, Dong Xia, Ming Yuan. 
-\n /Preprint/, 2026. ~~{{[}}[https://arxiv.org/abs/2510.16965 arxiv],~[https://github.com/junrenchen58/Nonlinear-tensor-regression matlab]{{]}}
+\n /Preprint/, 2025. 
+\n {{[}}[https://arxiv.org/abs/2510.16965 arxiv]{{]}}~~{{[}}[https://github.com/junrenchen58/Nonlinear-tensor-regression matlab]{{]}}
 
 
 - *Instance Optimal Sparse Recovery from Nonlinear Observations: A Unified Framework.* 
 \n Junren Chen, Arian Maleki. 
-\n /Preprint/, 2026. ~~{{[}}[https://arxiv.org/abs/2609.02120 arxiv],~[../files/iop-supp.pdf supp]{{]}}
+\n /Preprint/, 2026. 
+\n {{[}}[https://arxiv.org/abs/2609.02120 arxiv]{{]}}~~{{[}}[../files/iop-supp.pdf supp]{{]}}
 
 
 - *Optimal Quantized Compressed Sensing via Projected Gradient Descent.* \n Junren Chen, Ming Yuan. \n 
-/Applied and Computational Harmonic Analysis/, 2026.~~{{[}}[https://arxiv.org/abs/2407.04951 arxiv],~[https://www.sciencedirect.com/science/article/pii/S1063520326000941 acha],~[https://github.com/junrenchen58/optimal-qcs matlab]{{]}}
+/Applied and Computational Harmonic Analysis/, 2027.
+\n {{[}}[https://www.sciencedirect.com/science/article/pii/S1063520326000941 acha]{{]}}~~{{[}}[https://arxiv.org/abs/2407.04951 arxiv]{{]}}~~{{[}}[https://github.com/junrenchen58/optimal-qcs matlab]{{]}}
 
 
 
 
-- *Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design.* \n Junren Chen, Arya Mazumdar. \n  /Advances in Neural Information Processing Systems/ (NeurIPS), 2026.~~{{[}}[https://arxiv.org/abs/2606.21683 arxiv]{{]}}
+- *Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design.* \n Junren Chen, Arya Mazumdar. \n  /Advances in Neural Information Processing Systems/ (NeurIPS), 2026.\n {{[}}[https://arxiv.org/abs/2606.21683 arxiv]{{]}}
 
 
 
@@ -41,25 +44,30 @@ See [https://scholar.google.com/citations?user=pw3tOroAAAAJ&hl=en Google Scholar
 
 - *High Dimensional Statistical Estimation under Uniformly Dithered One-Bit Quantization.*  \n
   Junren Chen, Cheng-Long Wang, Michael K. Ng, Di Wang. 
-\n /IEEE Transactions on Information Theory/, 2023.~~{{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 tit],~[https://arxiv.org/abs/2202.13157 arxiv]{{]}}
+\n /IEEE Transactions on Information Theory/, 2023. 
+\n {{[}}[https://ieeexplore.ieee.org/abstract/document/10098832 tit]{{]}}~~{{[}}[https://arxiv.org/abs/2202.13157 arxiv]{{]}}
 
 - *One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms.* 
 \n 
 Junren Chen, Ming Yuan. 
 \n 
-/IEEE Transactions on Information Theory/, 2026.~~{{[}}[https://ieeexplore.ieee.org/document/11516279 tit],~[https://arxiv.org/abs/2405.04733 arxiv],~[https://github.com/junrenchen58/one-bit-phase-retrieval matlab],~[../files/1bpr-slide.pdf slide]{{]}} 
+/IEEE Transactions on Information Theory/, 2026.
+\n {{[}}[https://ieeexplore.ieee.org/document/11516279 tit]{{]}}~~{{[}}[https://arxiv.org/abs/2405.04733 arxiv]{{]}}~~{{[}}[https://github.com/junrenchen58/one-bit-phase-retrieval matlab]{{]}}~~{{[}}[../files/1bpr-slide.pdf slide]{{]}} 
 
 - *A Parameter-Free Two-Bit Covariance Estimator with Improved Operator Norm Error Rate.* 
 \n Junren Chen, Michael K. Ng. \n
-/Applied and Computational Harmonic Analysis/, 2025.~~{{[}}[https://arxiv.org/abs/2308.16059 arxiv],~[https://www.sciencedirect.com/science/article/pii/S1063520325000284?dgcid=author acha],~[../files/2-bit-covariance.zip matlab]{{]}}
+/Applied and Computational Harmonic Analysis/, 2025.
+\n {{[}}[https://www.sciencedirect.com/science/article/pii/S1063520325000284?dgcid=author acha]{{]}}~~{{[}}[https://arxiv.org/abs/2308.16059 arxiv]{{]}}~~{{[}}[../files/2-bit-covariance.zip matlab]{{]}}
 
 
 - *Robust Mean Estimation under Quantization.* 
 \n Pedro Abdalla, Junren Chen. (α–β)\n 
-/Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2601.07074 arxiv],~[https://github.com/junrenchen58/one-bit-mean matlab]{{]}}
+/Preprint/, 2026.
+\n {{[}}[https://arxiv.org/abs/2601.07074 arxiv]{{]}}~~{{[}}[https://github.com/junrenchen58/one-bit-mean matlab]{{]}}
 
  
-- *One-Bit Clustering for Two Component Sub-Gaussian Mixture Models.* \n Junren Chen, Yun Yang. \n /Advances in Neural Information Processing Systems/ (NeurIPS), 2026.~~{{[}}[https://arxiv.org/abs/2606.21873 arxiv]{{]}}
+- *One-Bit Clustering for Two Component Sub-Gaussian Mixture Models.* \n Junren Chen, Yun Yang. \n /Advances in Neural Information Processing Systems/ (NeurIPS), 2026.
+\n {{[}}[https://arxiv.org/abs/2606.21873 arxiv]{{]}}
 
 
 
@@ -69,19 +77,23 @@ Junren Chen, Ming Yuan.
 - *Exact Thresholds for Noisy Non-Adaptive Group Testing.*  
 \n 
 Junren Chen, Jonathan Scarlett. 
-\n /ACM-SIAM Symposium on Discrete Algorithms/ (SODA), 2025.~~{{[}}[https://arxiv.org/abs/2401.04884 arxiv],~[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 soda],~[../files/soda25-grouptesting.pdf slide]{{]}} 
+\n /ACM-SIAM Symposium on Discrete Algorithms/ (SODA), 2025.
+\n {{[}}[https://epubs.siam.org/doi/pdf/10.1137/1.9781611978322.159 soda]{{]}}~~{{[}}[https://arxiv.org/abs/2401.04884 arxiv]{{]}}~~{{[}}[../files/soda25-grouptesting.pdf slide]{{]}} 
 
 
-- *Robust Instance Optimal Phase-Only Compressed Sensing.* \n Junren Chen, Michael K. Ng, Jonathan Scarlett. (α–β) \n /Information and Inference: A Journal of the IMA/, 2026.~~{{[}}[https://academic.oup.com/imaiai/article-abstract/15/2/iaag014/8698132?redirectedFrom=fulltext iai],~[https://arxiv.org/abs/2408.06275 arxiv],~[https://github.com/junrenchen58/instance-optimal-pocs matlab]{{]}}
+- *Robust Instance Optimal Phase-Only Compressed Sensing.* \n Junren Chen, Michael K. Ng, Jonathan Scarlett. (α–β) \n /Information and Inference: A Journal of the IMA/, 2026.
+\n {{[}}[https://academic.oup.com/imaiai/article-abstract/15/2/iaag014/8698132?redirectedFrom=fulltext iai]{{]}}~~{{[}}[https://arxiv.org/abs/2408.06275 arxiv]{{]}}~~{{[}}[https://github.com/junrenchen58/instance-optimal-pocs matlab]{{]}}
  
 
-- *Near-Optimal Lower Bounds on One-Bit Compressed Sensing of Approximately Sparse Signals.* \n Junren Chen, Arya Mazumdar, Ming Yuan. (α–β) \n  /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2607.06750 arxiv]{{]}}
+- *Near-Optimal Lower Bounds on One-Bit Compressed Sensing of Approximately Sparse Signals.* \n Junren Chen, Arya Mazumdar, Ming Yuan. (α–β) \n  /Preprint/, 2026.
+\n {{[}}[https://arxiv.org/abs/2607.06750 arxiv]{{]}}
 
 
 - *Minimax Optimal Estimator and Improved Error Rate for the MLE in Logistic Regression with Gaussian Design.* \n 
 Junren Chen, Arya Mazumdar.  
 \n  
-/Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2608.17260 arxiv],~[https://github.com/junrenchen58/logistic-regression-mle-and-minimax matlab],~[../files/gaussian-logistic.pdf slide]{{]}}
+/Preprint/, 2026.
+\n {{[}}[https://arxiv.org/abs/2608.17260 arxiv]{{]}}~~{{[}}[https://github.com/junrenchen58/logistic-regression-mle-and-minimax matlab]{{]}}~~{{[}}[../files/gaussian-logistic.pdf slide]{{]}}
 
 
 
@@ -90,10 +102,11 @@ Junren Chen, Arya Mazumdar.
 
 - *On Subsample Size of Quantile-Based Randomized Kaczmarz.*
 \n Jian-Feng Cai, Junren Chen, Anna Ma, Tong Wu. (α–β) \n
-/SIAM Journal on Matrix Analysis and Applications/, 2026.~~{{[}}[https://epubs.siam.org/doi/10.1137/25M1785678 simax],~[https://arxiv.org/abs/2507.15185 arxiv],~[https://github.com/wtree101/matlab-rk-analysis matlab],~[../files/jmm2026.pdf slide]{{]}}
+/SIAM Journal on Matrix Analysis and Applications/, 2026.
+\n {{[}}[https://epubs.siam.org/doi/10.1137/25M1785678 simax]{{]}}~~{{[}}[https://arxiv.org/abs/2507.15185 arxiv]{{]}}~~{{[}}[https://github.com/wtree101/matlab-rk-analysis matlab]{{]}}~~{{[}}[../files/jmm2026.pdf slide]{{]}}
 
 
-- *Quantile Randomized Kaczmarz for Streaming  Linear Systems with Massart Noise.* \n Emeric Battaglia, Jian-Feng Cai, Junren Chen, Anna Ma, Deanna Needell, Tong Wu. (α–β) \n  /Preprint/, 2026.~~{{[}}[https://arxiv.org/abs/2608.27968 arxiv],~[https://github.com/wtree101/Explicit-beta-and-D-for-QRK code]{{]}}
+- *Quantile Randomized Kaczmarz for Streaming  Linear Systems with Massart Noise.* \n Emeric Battaglia, Jian-Feng Cai, Junren Chen, Anna Ma, Deanna Needell, Tong Wu. (α–β) \n  /Preprint/, 2026.\n {{[}}[https://arxiv.org/abs/2608.27968 arxiv]{{]}}~~{{[}}[https://github.com/wtree101/Explicit-beta-and-D-for-QRK code]{{]}}
 
 
  
